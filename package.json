@@ -1,0 +1,14 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "generate fake data",
+  "main": "faker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}

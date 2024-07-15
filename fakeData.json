@@ -1,0 +1,1398 @@
+{
+  "users": [
+    {
+      "id": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+      "name": "Brady",
+      "phoneNumber": "1-611-445-1684",
+      "email": "Royal14@yahoo.com",
+      "passwordHash": "ivldFaaDjJk1O3q",
+      "createdAt": "2024-06-21T16:22:00.002Z",
+      "updatedAt": "2024-07-15T03:06:43.215Z"
+    },
+    {
+      "id": "2a7a36c0-c045-4c40-9756-aa140ff5abf6",
+      "name": "Asha",
+      "phoneNumber": "876.876.1493 x17497",
+      "email": "Telly1@hotmail.com",
+      "passwordHash": "zWSESemedVeESB1",
+      "createdAt": "2023-12-06T21:28:02.259Z",
+      "updatedAt": "2024-07-15T09:10:59.392Z"
+    },
+    {
+      "id": "60b73f08-7672-4809-81da-27e769b05fa0",
+      "name": "Pink",
+      "phoneNumber": "903-690-4820 x422",
+      "email": "Casimer.Boyle56@yahoo.com",
+      "passwordHash": "buQDRRgq7JRDwA9",
+      "createdAt": "2023-07-31T06:30:02.332Z",
+      "updatedAt": "2024-07-15T14:34:24.068Z"
+    },
+    {
+      "id": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "name": "Lewis",
+      "phoneNumber": "932.786.0520",
+      "email": "Ebony81@hotmail.com",
+      "passwordHash": "4MHN2fjUluVi2Am",
+      "createdAt": "2023-10-30T20:34:56.858Z",
+      "updatedAt": "2024-07-15T04:04:17.721Z"
+    },
+    {
+      "id": "c5d0c078-32ff-4d39-a1f1-a053de0de488",
+      "name": "Cornell",
+      "phoneNumber": "1-235-457-9863 x645",
+      "email": "Shayna_Torphy@gmail.com",
+      "passwordHash": "Cyomubniyze4ZSu",
+      "createdAt": "2024-03-29T01:54:13.953Z",
+      "updatedAt": "2024-07-14T23:28:07.209Z"
+    },
+    {
+      "id": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "name": "Dessie",
+      "phoneNumber": "(209) 454-4230 x360",
+      "email": "Laverna_Langosh31@hotmail.com",
+      "passwordHash": "1M1foNnPuYdSIN9",
+      "createdAt": "2024-02-08T22:27:28.954Z",
+      "updatedAt": "2024-07-14T19:24:12.342Z"
+    },
+    {
+      "id": "5f8741f1-4753-42b4-ab7e-8cbb30de8826",
+      "name": "Jess",
+      "phoneNumber": "1-212-739-5534",
+      "email": "Meggie.Reilly6@gmail.com",
+      "passwordHash": "tndxnGd3Kh1p3dE",
+      "createdAt": "2023-10-16T11:41:18.287Z",
+      "updatedAt": "2024-07-15T07:11:16.117Z"
+    },
+    {
+      "id": "7df5a034-c5bd-4811-b1c3-6421059df862",
+      "name": "Kira",
+      "phoneNumber": "442.606.7735 x152",
+      "email": "Lourdes_Casper5@yahoo.com",
+      "passwordHash": "9yk4x7vywE1LhYH",
+      "createdAt": "2024-02-28T16:26:21.772Z",
+      "updatedAt": "2024-07-15T03:15:38.142Z"
+    },
+    {
+      "id": "7a46d27f-f001-468e-8603-3b3d13a37b39",
+      "name": "Gerson",
+      "phoneNumber": "1-658-263-2076",
+      "email": "Addison.Keebler@yahoo.com",
+      "passwordHash": "YQxWk90A7BslFmB",
+      "createdAt": "2024-01-29T02:05:24.487Z",
+      "updatedAt": "2024-07-14T21:02:17.631Z"
+    },
+    {
+      "id": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "name": "Braden",
+      "phoneNumber": "1-288-713-9728 x2951",
+      "email": "Chaz96@yahoo.com",
+      "passwordHash": "vCQs5YF5oz9GhbQ",
+      "createdAt": "2023-11-02T18:20:33.531Z",
+      "updatedAt": "2024-07-15T09:34:24.150Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "street": "360 Demarco Gardens",
+      "city": "Taunton",
+      "state": "Idaho",
+      "zipCode": "67324-2089",
+      "userId": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+      "createdAt": "2023-09-20T03:58:56.437Z",
+      "updatedAt": "2024-07-14T18:51:33.161Z"
+    },
+    {
+      "id": 2,
+      "street": "8457 Woodlands Road",
+      "city": "Sylvanmouth",
+      "state": "Maryland",
+      "zipCode": "20987-6591",
+      "userId": "2a7a36c0-c045-4c40-9756-aa140ff5abf6",
+      "createdAt": "2023-12-11T17:39:04.608Z",
+      "updatedAt": "2024-07-15T01:47:21.078Z"
+    },
+    {
+      "id": 3,
+      "street": "83550 Nils Mission",
+      "city": "West Norvalworth",
+      "state": "Alaska",
+      "zipCode": "71659",
+      "userId": "60b73f08-7672-4809-81da-27e769b05fa0",
+      "createdAt": "2024-02-01T15:10:41.446Z",
+      "updatedAt": "2024-07-15T11:05:43.345Z"
+    },
+    {
+      "id": 4,
+      "street": "19608 Zemlak Fort",
+      "city": "Lake Kaelamouth",
+      "state": "South Dakota",
+      "zipCode": "99153-7456",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "createdAt": "2024-04-15T00:18:53.220Z",
+      "updatedAt": "2024-07-15T00:35:05.860Z"
+    },
+    {
+      "id": 5,
+      "street": "881 Rashad Centers",
+      "city": "East Baileyview",
+      "state": "Montana",
+      "zipCode": "38916",
+      "userId": "c5d0c078-32ff-4d39-a1f1-a053de0de488",
+      "createdAt": "2023-07-21T19:07:04.874Z",
+      "updatedAt": "2024-07-15T15:43:51.976Z"
+    },
+    {
+      "id": 6,
+      "street": "25868 Keven Grove",
+      "city": "Johns Creek",
+      "state": "Hawaii",
+      "zipCode": "86798",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "createdAt": "2023-08-08T06:30:20.663Z",
+      "updatedAt": "2024-07-14T19:50:40.915Z"
+    },
+    {
+      "id": 7,
+      "street": "384 O'Kon Club",
+      "city": "Metairie",
+      "state": "Wyoming",
+      "zipCode": "60745",
+      "userId": "5f8741f1-4753-42b4-ab7e-8cbb30de8826",
+      "createdAt": "2024-05-18T00:28:26.864Z",
+      "updatedAt": "2024-07-15T02:35:15.483Z"
+    },
+    {
+      "id": 8,
+      "street": "1679 Valley Road",
+      "city": "Franeckishire",
+      "state": "Utah",
+      "zipCode": "81054",
+      "userId": "7df5a034-c5bd-4811-b1c3-6421059df862",
+      "createdAt": "2023-10-27T03:45:26.715Z",
+      "updatedAt": "2024-07-15T04:17:01.354Z"
+    },
+    {
+      "id": 9,
+      "street": "282 Hillside Avenue",
+      "city": "Parisianburgh",
+      "state": "Kentucky",
+      "zipCode": "73181",
+      "userId": "7a46d27f-f001-468e-8603-3b3d13a37b39",
+      "createdAt": "2024-01-11T10:14:04.886Z",
+      "updatedAt": "2024-07-14T23:19:38.906Z"
+    },
+    {
+      "id": 10,
+      "street": "428 Samson Fort",
+      "city": "New Jewelcester",
+      "state": "Virginia",
+      "zipCode": "00709-4905",
+      "userId": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "createdAt": "2023-10-17T06:46:49.285Z",
+      "updatedAt": "2024-07-14T18:30:14.979Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "cb8beb15-bd83-4c0f-81ba-0a84405deb87",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "type": "user",
+      "provider": "Durgan, Adams and Kerluke",
+      "providerAccountId": "0e5d8c14-98ef-435d-ab87-aa8a9ca0acd5",
+      "refreshToken": "2wzTgSMpyZmUnmF",
+      "accessToken": "J5fxGdwUAiXIuu0",
+      "expiresAt": "2024-11-28T21:15:19.178Z",
+      "tokenType": "LhzLat7smHgDJ_qBWP0r1",
+      "scope": "ftluKeXXQE",
+      "idToken": "Zh7_E36xJQY9x8H",
+      "sessionState": "CxVvrMJQsz"
+    },
+    {
+      "id": "b14d97b2-cb93-4dfd-82a9-1c8f29c0d464",
+      "userId": "c5d0c078-32ff-4d39-a1f1-a053de0de488",
+      "type": "user",
+      "provider": "Conn Group",
+      "providerAccountId": "d85f66a2-6c65-403e-9039-b65304c0ef86",
+      "refreshToken": "8C8lb7wT2EAiAMA",
+      "accessToken": "BVFRZLivewTwHvR",
+      "expiresAt": "2024-10-07T13:28:06.320Z",
+      "tokenType": "73c_EuL-5GY7Sh40QBJkA",
+      "scope": "DCfWqRpXLo",
+      "idToken": "dvFv7R40c5pwn1R",
+      "sessionState": "EwhPrJtWIK"
+    },
+    {
+      "id": "fd54ebba-7322-4191-bd19-4986440a066f",
+      "userId": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "type": "user",
+      "provider": "Borer, Rolfson and Waters",
+      "providerAccountId": "1e1bef42-b65b-45a5-a3da-d39de9a9f496",
+      "refreshToken": "PbhniyDeZ6p0kbN",
+      "accessToken": "O9IG2bR3rYsCEQ0",
+      "expiresAt": "2025-02-01T16:46:37.862Z",
+      "tokenType": "Ip1ZJP2K8UcZIf4GPx5QX",
+      "scope": "fYWNLPOtPj",
+      "idToken": "hn6KDA8XOMsbHMU",
+      "sessionState": "cBlOzTDPfZ"
+    },
+    {
+      "id": "ddf39bfc-0737-4df0-984e-797c67be4984",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "type": "admin",
+      "provider": "Lowe - Kassulke",
+      "providerAccountId": "678903dc-6989-42ce-ac99-d980cb3a4b3e",
+      "refreshToken": "fOdNvabiN16dSCF",
+      "accessToken": "K_o0cX5L_R56pTA",
+      "expiresAt": "2024-08-19T12:14:05.372Z",
+      "tokenType": "DA2Di6ZvRJlNmA3z1mCD-",
+      "scope": "AKgAtZJWum",
+      "idToken": "hDHxlZcRZMBrAiE",
+      "sessionState": "EYWSlRVtLm"
+    },
+    {
+      "id": "443b09a4-fe8e-434f-84c3-03b0e27691bf",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "type": "admin",
+      "provider": "Stokes - Renner",
+      "providerAccountId": "dd810008-b2a6-439a-8fe9-ee60744debf6",
+      "refreshToken": "oojDuySdZkjKJzC",
+      "accessToken": "buF6xmErtE0lFtz",
+      "expiresAt": "2025-03-07T20:31:07.053Z",
+      "tokenType": "pG_wFBPiVpo6jLURrETlF",
+      "scope": "TJgDafVjPM",
+      "idToken": "HBvM5tiKiPK54oj",
+      "sessionState": "idqGJzxuvo"
+    },
+    {
+      "id": "0bc66f9b-5935-41c1-9052-f58c4279f8b7",
+      "userId": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+      "type": "user",
+      "provider": "Crooks - Feeney",
+      "providerAccountId": "c031e8e1-ae66-4188-b372-d543e0d4b305",
+      "refreshToken": "ffKKiEPPEgwrFod",
+      "accessToken": "7Fg39Ley7wDcxHt",
+      "expiresAt": "2025-01-08T12:40:28.832Z",
+      "tokenType": "RPc2UsM12GKfffCZ3LXa6",
+      "scope": "jkuFDcNWsq",
+      "idToken": "zvOpAQLZWCzG7kv",
+      "sessionState": "AwODblpbcT"
+    },
+    {
+      "id": "346fb921-c322-4d73-ae87-61594a3489f4",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "type": "admin",
+      "provider": "Jacobson - Reynolds",
+      "providerAccountId": "57ae9f32-7f77-4b2c-ad67-9f3e1359dff3",
+      "refreshToken": "jyepfzF2x552yyJ",
+      "accessToken": "oOXohvpChczusP1",
+      "expiresAt": "2025-05-31T14:24:33.693Z",
+      "tokenType": "N7XMTdlLm6Wi5i4hmaZT3",
+      "scope": "ghyVNKRCZf",
+      "idToken": "n9zqRnTmmbIqiqs",
+      "sessionState": "kDjwqfKOIO"
+    },
+    {
+      "id": "83796128-f98a-438b-8181-5e6d3365eb64",
+      "userId": "60b73f08-7672-4809-81da-27e769b05fa0",
+      "type": "admin",
+      "provider": "Parisian - Larkin",
+      "providerAccountId": "e8ba9597-820b-45c8-8f4c-6a25cf2b0c11",
+      "refreshToken": "TY9QBIGtTf7HTTw",
+      "accessToken": "v0yA7G9fJgJl1yR",
+      "expiresAt": "2025-02-15T03:29:08.043Z",
+      "tokenType": "DRGD1POK_3srlm1ojCr4Y",
+      "scope": "lKKwOcWfYF",
+      "idToken": "tV43qSJmzx0V2PB",
+      "sessionState": "egRgMRYXAA"
+    },
+    {
+      "id": "c9acc8b0-6d5e-4fdc-9fab-3f46ae853314",
+      "userId": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "type": "admin",
+      "provider": "Schimmel LLC",
+      "providerAccountId": "74b6433b-0508-44f9-ac64-be45c84e69d7",
+      "refreshToken": "uXxOyO9ux_cUjpx",
+      "accessToken": "BVaWjd5z36LCUQx",
+      "expiresAt": "2025-05-09T03:57:42.117Z",
+      "tokenType": "Zng1_Jam1jCXXVKmYhDVG",
+      "scope": "PCobmWWybn",
+      "idToken": "BRSSBNWxv1acJaY",
+      "sessionState": "wtJbmAvxRb"
+    },
+    {
+      "id": "c52c0202-c480-4b5f-9d39-9179b7c825db",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "type": "admin",
+      "provider": "Wilkinson - Funk",
+      "providerAccountId": "8543252c-cd87-4860-a244-1348b05c9a72",
+      "refreshToken": "Yt0SdJE35K2mcq4",
+      "accessToken": "T7l6lcvbHE7xRGc",
+      "expiresAt": "2025-07-10T07:46:36.235Z",
+      "tokenType": "spw9sKis41G-sinUZ9AmU",
+      "scope": "vNlZCvhrFH",
+      "idToken": "UPtOubxll2qEkna",
+      "sessionState": "vjSsKklKWG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Movies",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": 2,
+      "name": "Kids",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    {
+      "id": 3,
+      "name": "Games",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    {
+      "id": 4,
+      "name": "Home",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    },
+    {
+      "id": 5,
+      "name": "Music",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Small Metal Towels",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "905.00",
+      "stock": 78,
+      "categoryId": 1,
+      "createdAt": "2024-07-01T22:34:19.428Z",
+      "updatedAt": "2024-07-15T10:29:46.129Z"
+    },
+    {
+      "id": 2,
+      "name": "Awesome Cotton Bacon",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "94.00",
+      "stock": 44,
+      "categoryId": 1,
+      "createdAt": "2023-10-24T05:32:14.940Z",
+      "updatedAt": "2024-07-15T06:22:43.855Z"
+    },
+    {
+      "id": 3,
+      "name": "Awesome Concrete Hat",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "755.00",
+      "stock": 72,
+      "categoryId": 1,
+      "createdAt": "2023-07-29T03:02:36.167Z",
+      "updatedAt": "2024-07-14T20:57:10.516Z"
+    },
+    {
+      "id": 4,
+      "name": "Bespoke Wooden Chips",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "151.00",
+      "stock": 76,
+      "categoryId": 1,
+      "createdAt": "2024-05-29T17:21:16.194Z",
+      "updatedAt": "2024-07-15T16:08:47.501Z"
+    },
+    {
+      "id": 5,
+      "name": "Tasty Bronze Bike",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "232.00",
+      "stock": 1,
+      "categoryId": 1,
+      "createdAt": "2023-09-11T18:38:31.095Z",
+      "updatedAt": "2024-07-14T19:44:45.847Z"
+    },
+    {
+      "id": 6,
+      "name": "Practical Granite Ball",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "269.00",
+      "stock": 56,
+      "categoryId": 1,
+      "createdAt": "2023-12-20T03:16:50.320Z",
+      "updatedAt": "2024-07-14T18:50:03.895Z"
+    },
+    {
+      "id": 7,
+      "name": "Rustic Concrete Towels",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "721.00",
+      "stock": 98,
+      "categoryId": 1,
+      "createdAt": "2023-07-20T14:40:43.110Z",
+      "updatedAt": "2024-07-15T15:13:26.768Z"
+    },
+    {
+      "id": 8,
+      "name": "Oriental Bronze Soap",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "868.00",
+      "stock": 88,
+      "categoryId": 1,
+      "createdAt": "2024-04-16T10:28:45.361Z",
+      "updatedAt": "2024-07-15T14:12:27.844Z"
+    },
+    {
+      "id": 9,
+      "name": "Gorgeous Fresh Pants",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "786.00",
+      "stock": 93,
+      "categoryId": 1,
+      "createdAt": "2024-02-25T18:22:03.786Z",
+      "updatedAt": "2024-07-14T20:40:18.122Z"
+    },
+    {
+      "id": 10,
+      "name": "Small Rubber Ball",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "181.00",
+      "stock": 46,
+      "categoryId": 1,
+      "createdAt": "2023-10-18T22:43:49.052Z",
+      "updatedAt": "2024-07-14T19:00:08.039Z"
+    },
+    {
+      "id": 11,
+      "name": "Incredible Soft Chair",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "492.00",
+      "stock": 36,
+      "categoryId": 2,
+      "createdAt": "2023-09-16T03:17:44.984Z",
+      "updatedAt": "2024-07-14T23:31:59.297Z"
+    },
+    {
+      "id": 12,
+      "name": "Rustic Concrete Chips",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "130.00",
+      "stock": 7,
+      "categoryId": 2,
+      "createdAt": "2024-04-01T12:10:16.481Z",
+      "updatedAt": "2024-07-14T21:44:25.121Z"
+    },
+    {
+      "id": 13,
+      "name": "Handcrafted Steel Shirt",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "714.00",
+      "stock": 12,
+      "categoryId": 2,
+      "createdAt": "2024-03-31T03:39:14.299Z",
+      "updatedAt": "2024-07-15T12:00:34.096Z"
+    },
+    {
+      "id": 14,
+      "name": "Gorgeous Frozen Shirt",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "962.00",
+      "stock": 9,
+      "categoryId": 2,
+      "createdAt": "2024-02-03T01:18:37.686Z",
+      "updatedAt": "2024-07-15T03:20:42.380Z"
+    },
+    {
+      "id": 15,
+      "name": "Handcrafted Frozen Gloves",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "142.00",
+      "stock": 76,
+      "categoryId": 2,
+      "createdAt": "2024-05-22T12:33:00.490Z",
+      "updatedAt": "2024-07-14T23:45:46.376Z"
+    },
+    {
+      "id": 16,
+      "name": "Luxurious Rubber Mouse",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "380.00",
+      "stock": 96,
+      "categoryId": 2,
+      "createdAt": "2024-03-11T07:01:50.364Z",
+      "updatedAt": "2024-07-15T01:12:53.547Z"
+    },
+    {
+      "id": 17,
+      "name": "Handmade Metal Chicken",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "58.00",
+      "stock": 1,
+      "categoryId": 2,
+      "createdAt": "2024-02-23T07:03:14.715Z",
+      "updatedAt": "2024-07-14T23:29:55.476Z"
+    },
+    {
+      "id": 18,
+      "name": "Modern Rubber Fish",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "254.00",
+      "stock": 74,
+      "categoryId": 2,
+      "createdAt": "2024-01-15T15:52:57.050Z",
+      "updatedAt": "2024-07-15T00:07:29.163Z"
+    },
+    {
+      "id": 19,
+      "name": "Gorgeous Plastic Ball",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "765.00",
+      "stock": 50,
+      "categoryId": 2,
+      "createdAt": "2023-08-30T11:31:26.632Z",
+      "updatedAt": "2024-07-15T04:57:13.844Z"
+    },
+    {
+      "id": 20,
+      "name": "Oriental Cotton Shirt",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "439.00",
+      "stock": 72,
+      "categoryId": 2,
+      "createdAt": "2024-05-07T20:06:57.653Z",
+      "updatedAt": "2024-07-15T04:27:42.170Z"
+    },
+    {
+      "id": 21,
+      "name": "Luxurious Soft Hat",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "378.00",
+      "stock": 81,
+      "categoryId": 3,
+      "createdAt": "2023-11-23T05:45:30.110Z",
+      "updatedAt": "2024-07-15T16:57:41.913Z"
+    },
+    {
+      "id": 22,
+      "name": "Luxurious Fresh Keyboard",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "839.00",
+      "stock": 26,
+      "categoryId": 3,
+      "createdAt": "2024-06-21T10:37:09.134Z",
+      "updatedAt": "2024-07-14T18:54:11.524Z"
+    },
+    {
+      "id": 23,
+      "name": "Fantastic Fresh Computer",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "238.00",
+      "stock": 9,
+      "categoryId": 3,
+      "createdAt": "2024-05-09T23:14:56.839Z",
+      "updatedAt": "2024-07-14T23:02:21.144Z"
+    },
+    {
+      "id": 24,
+      "name": "Bespoke Rubber Tuna",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "619.00",
+      "stock": 20,
+      "categoryId": 3,
+      "createdAt": "2023-12-19T08:34:02.870Z",
+      "updatedAt": "2024-07-15T00:47:23.545Z"
+    },
+    {
+      "id": 25,
+      "name": "Tasty Soft Tuna",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "170.00",
+      "stock": 40,
+      "categoryId": 3,
+      "createdAt": "2024-04-07T11:56:12.364Z",
+      "updatedAt": "2024-07-15T09:15:20.379Z"
+    },
+    {
+      "id": 26,
+      "name": "Luxurious Metal Pizza",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "739.00",
+      "stock": 75,
+      "categoryId": 3,
+      "createdAt": "2023-10-28T08:46:04.108Z",
+      "updatedAt": "2024-07-14T17:53:41.342Z"
+    },
+    {
+      "id": 27,
+      "name": "Tasty Rubber Computer",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "975.00",
+      "stock": 18,
+      "categoryId": 3,
+      "createdAt": "2024-05-16T18:27:39.752Z",
+      "updatedAt": "2024-07-15T05:38:16.250Z"
+    },
+    {
+      "id": 28,
+      "name": "Ergonomic Concrete Soap",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "85.00",
+      "stock": 44,
+      "categoryId": 3,
+      "createdAt": "2024-05-30T14:57:34.259Z",
+      "updatedAt": "2024-07-15T03:26:04.734Z"
+    },
+    {
+      "id": 29,
+      "name": "Electronic Granite Cheese",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "864.00",
+      "stock": 96,
+      "categoryId": 3,
+      "createdAt": "2024-04-04T02:57:02.660Z",
+      "updatedAt": "2024-07-15T04:19:50.152Z"
+    },
+    {
+      "id": 30,
+      "name": "Handcrafted Metal Keyboard",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "882.00",
+      "stock": 13,
+      "categoryId": 3,
+      "createdAt": "2024-03-26T14:26:17.401Z",
+      "updatedAt": "2024-07-15T00:31:22.484Z"
+    },
+    {
+      "id": 31,
+      "name": "Fantastic Rubber Table",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "638.00",
+      "stock": 62,
+      "categoryId": 4,
+      "createdAt": "2024-01-19T17:49:06.742Z",
+      "updatedAt": "2024-07-15T01:39:23.269Z"
+    },
+    {
+      "id": 32,
+      "name": "Intelligent Metal Pants",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "628.00",
+      "stock": 20,
+      "categoryId": 4,
+      "createdAt": "2023-10-01T17:00:10.616Z",
+      "updatedAt": "2024-07-14T19:38:47.916Z"
+    },
+    {
+      "id": 33,
+      "name": "Awesome Fresh Hat",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "808.00",
+      "stock": 67,
+      "categoryId": 4,
+      "createdAt": "2024-04-19T08:28:39.481Z",
+      "updatedAt": "2024-07-15T02:42:14.663Z"
+    },
+    {
+      "id": 34,
+      "name": "Refined Soft Keyboard",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "174.00",
+      "stock": 5,
+      "categoryId": 4,
+      "createdAt": "2024-06-19T08:40:25.498Z",
+      "updatedAt": "2024-07-15T09:02:21.198Z"
+    },
+    {
+      "id": 35,
+      "name": "Generic Rubber Keyboard",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "528.00",
+      "stock": 24,
+      "categoryId": 4,
+      "createdAt": "2023-10-21T07:41:48.577Z",
+      "updatedAt": "2024-07-15T10:20:46.655Z"
+    },
+    {
+      "id": 36,
+      "name": "Awesome Granite Mouse",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "253.00",
+      "stock": 89,
+      "categoryId": 4,
+      "createdAt": "2024-02-21T10:43:31.764Z",
+      "updatedAt": "2024-07-15T13:41:57.550Z"
+    },
+    {
+      "id": 37,
+      "name": "Practical Steel Car",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "467.00",
+      "stock": 89,
+      "categoryId": 4,
+      "createdAt": "2023-08-26T13:27:29.785Z",
+      "updatedAt": "2024-07-15T15:20:34.241Z"
+    },
+    {
+      "id": 38,
+      "name": "Refined Soft Salad",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "415.00",
+      "stock": 69,
+      "categoryId": 4,
+      "createdAt": "2024-03-27T13:57:08.752Z",
+      "updatedAt": "2024-07-15T04:25:30.436Z"
+    },
+    {
+      "id": 39,
+      "name": "Small Frozen Mouse",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "851.00",
+      "stock": 56,
+      "categoryId": 4,
+      "createdAt": "2023-10-09T07:11:03.848Z",
+      "updatedAt": "2024-07-15T14:01:55.994Z"
+    },
+    {
+      "id": 40,
+      "name": "Handcrafted Steel Computer",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "851.00",
+      "stock": 36,
+      "categoryId": 4,
+      "createdAt": "2024-03-07T09:06:59.112Z",
+      "updatedAt": "2024-07-15T03:00:01.798Z"
+    },
+    {
+      "id": 41,
+      "name": "Small Concrete Pizza",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "373.00",
+      "stock": 76,
+      "categoryId": 5,
+      "createdAt": "2023-09-03T22:54:44.344Z",
+      "updatedAt": "2024-07-15T09:57:18.614Z"
+    },
+    {
+      "id": 42,
+      "name": "Intelligent Fresh Gloves",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "312.00",
+      "stock": 53,
+      "categoryId": 5,
+      "createdAt": "2024-01-15T07:53:04.208Z",
+      "updatedAt": "2024-07-15T01:31:36.468Z"
+    },
+    {
+      "id": 43,
+      "name": "Oriental Frozen Hat",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "805.00",
+      "stock": 48,
+      "categoryId": 5,
+      "createdAt": "2023-12-05T16:50:47.282Z",
+      "updatedAt": "2024-07-15T10:10:06.839Z"
+    },
+    {
+      "id": 44,
+      "name": "Refined Bronze Car",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "719.00",
+      "stock": 64,
+      "categoryId": 5,
+      "createdAt": "2023-09-09T16:30:43.987Z",
+      "updatedAt": "2024-07-14T23:49:01.949Z"
+    },
+    {
+      "id": 45,
+      "name": "Licensed Frozen Tuna",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "698.00",
+      "stock": 85,
+      "categoryId": 5,
+      "createdAt": "2024-05-07T20:23:42.342Z",
+      "updatedAt": "2024-07-15T03:43:53.847Z"
+    },
+    {
+      "id": 46,
+      "name": "Luxurious Plastic Gloves",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "621.00",
+      "stock": 65,
+      "categoryId": 5,
+      "createdAt": "2024-02-20T04:16:16.158Z",
+      "updatedAt": "2024-07-14T20:26:27.789Z"
+    },
+    {
+      "id": 47,
+      "name": "Modern Fresh Cheese",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "909.00",
+      "stock": 12,
+      "categoryId": 5,
+      "createdAt": "2024-01-21T00:47:19.837Z",
+      "updatedAt": "2024-07-15T06:48:00.956Z"
+    },
+    {
+      "id": 48,
+      "name": "Oriental Wooden Keyboard",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "60.00",
+      "stock": 56,
+      "categoryId": 5,
+      "createdAt": "2023-10-09T12:16:20.287Z",
+      "updatedAt": "2024-07-14T21:57:16.745Z"
+    },
+    {
+      "id": 49,
+      "name": "Practical Bronze Bike",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "810.00",
+      "stock": 20,
+      "categoryId": 5,
+      "createdAt": "2024-07-12T17:04:46.525Z",
+      "updatedAt": "2024-07-15T02:03:08.153Z"
+    },
+    {
+      "id": 50,
+      "name": "Awesome Bronze Shirt",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "41.00",
+      "stock": 86,
+      "categoryId": 5,
+      "createdAt": "2024-05-21T17:16:28.231Z",
+      "updatedAt": "2024-07-15T08:05:58.147Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "adb87b6a-0815-4be8-b4ee-1c1a7e7578ab",
+      "userId": "c5d0c078-32ff-4d39-a1f1-a053de0de488",
+      "status": "paid",
+      "total": 1484,
+      "createdAt": "2024-05-30T03:16:48.832Z",
+      "updatedAt": "2024-07-15T12:36:59.698Z"
+    },
+    {
+      "id": "3e48475b-5e50-4c6c-bb46-515a8a05af12",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "status": "done",
+      "total": 2886,
+      "createdAt": "2024-05-25T11:57:06.400Z",
+      "updatedAt": "2024-07-15T16:14:22.448Z"
+    },
+    {
+      "id": "ed3dbb64-3352-40f2-ba2d-20b4559afa9a",
+      "userId": "7a46d27f-f001-468e-8603-3b3d13a37b39",
+      "status": "pending",
+      "total": 9212,
+      "createdAt": "2023-11-25T04:48:29.856Z",
+      "updatedAt": "2024-07-15T04:19:32.895Z"
+    },
+    {
+      "id": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "userId": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "status": "pending",
+      "total": 4119,
+      "createdAt": "2023-08-07T04:39:08.640Z",
+      "updatedAt": "2024-07-14T19:14:41.809Z"
+    },
+    {
+      "id": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "userId": "60b73f08-7672-4809-81da-27e769b05fa0",
+      "status": "done",
+      "total": 13201,
+      "createdAt": "2023-08-11T02:08:18.546Z",
+      "updatedAt": "2024-07-15T14:25:52.369Z"
+    },
+    {
+      "id": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "userId": "60b73f08-7672-4809-81da-27e769b05fa0",
+      "status": "pending",
+      "total": 13769,
+      "createdAt": "2023-12-22T08:52:46.441Z",
+      "updatedAt": "2024-07-14T18:06:37.397Z"
+    },
+    {
+      "id": "4ce385a3-afba-4e6c-8242-bd2ea2774761",
+      "userId": "5f8741f1-4753-42b4-ab7e-8cbb30de8826",
+      "status": "done",
+      "total": 7252,
+      "createdAt": "2024-04-08T02:28:33.924Z",
+      "updatedAt": "2024-07-15T14:36:15.962Z"
+    },
+    {
+      "id": "3e85e2ce-f816-49a8-9d9f-0d0fd069defd",
+      "userId": "eaecc8d0-a0bd-484d-9a14-67180f8a7a21",
+      "status": "done",
+      "total": 4904,
+      "createdAt": "2024-01-25T06:10:17.183Z",
+      "updatedAt": "2024-07-15T09:51:30.221Z"
+    },
+    {
+      "id": "92c5f891-b576-49c7-ab2b-04921e67f3fa",
+      "userId": "5f8741f1-4753-42b4-ab7e-8cbb30de8826",
+      "status": "done",
+      "total": 2295,
+      "createdAt": "2024-06-24T11:49:32.881Z",
+      "updatedAt": "2024-07-15T12:25:49.914Z"
+    },
+    {
+      "id": "3eead3f5-2e8f-42f3-8790-c8dc8cd6342a",
+      "userId": "2ad4da9f-b150-43c2-94a3-33ce60da8dd1",
+      "status": "paid",
+      "total": 5693,
+      "createdAt": "2024-03-19T15:53:30.732Z",
+      "updatedAt": "2024-07-15T08:27:58.766Z"
+    }
+  ],
+  "orderItems": [
+    {
+      "id": 1,
+      "orderId": "adb87b6a-0815-4be8-b4ee-1c1a7e7578ab",
+      "productId": 14,
+      "quantity": 1,
+      "price": 962
+    },
+    {
+      "id": 2,
+      "orderId": "adb87b6a-0815-4be8-b4ee-1c1a7e7578ab",
+      "productId": 34,
+      "quantity": 3,
+      "price": 522
+    },
+    {
+      "id": 3,
+      "orderId": "3e48475b-5e50-4c6c-bb46-515a8a05af12",
+      "productId": 14,
+      "quantity": 3,
+      "price": 2886
+    },
+    {
+      "id": 4,
+      "orderId": "ed3dbb64-3352-40f2-ba2d-20b4559afa9a",
+      "productId": 39,
+      "quantity": 4,
+      "price": 3404
+    },
+    {
+      "id": 5,
+      "orderId": "ed3dbb64-3352-40f2-ba2d-20b4559afa9a",
+      "productId": 26,
+      "quantity": 4,
+      "price": 2956
+    },
+    {
+      "id": 6,
+      "orderId": "ed3dbb64-3352-40f2-ba2d-20b4559afa9a",
+      "productId": 32,
+      "quantity": 4,
+      "price": 2512
+    },
+    {
+      "id": 7,
+      "orderId": "ed3dbb64-3352-40f2-ba2d-20b4559afa9a",
+      "productId": 25,
+      "quantity": 2,
+      "price": 340
+    },
+    {
+      "id": 8,
+      "orderId": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "productId": 22,
+      "quantity": 1,
+      "price": 839
+    },
+    {
+      "id": 9,
+      "orderId": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "productId": 16,
+      "quantity": 1,
+      "price": 380
+    },
+    {
+      "id": 10,
+      "orderId": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "productId": 24,
+      "quantity": 1,
+      "price": 619
+    },
+    {
+      "id": 11,
+      "orderId": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "productId": 6,
+      "quantity": 5,
+      "price": 1345
+    },
+    {
+      "id": 12,
+      "orderId": "c2bcff57-1cd0-412e-86e9-fb0b1ef4d389",
+      "productId": 42,
+      "quantity": 3,
+      "price": 936
+    },
+    {
+      "id": 13,
+      "orderId": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "productId": 26,
+      "quantity": 2,
+      "price": 1478
+    },
+    {
+      "id": 14,
+      "orderId": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "productId": 45,
+      "quantity": 5,
+      "price": 3490
+    },
+    {
+      "id": 15,
+      "orderId": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "productId": 20,
+      "quantity": 5,
+      "price": 2195
+    },
+    {
+      "id": 16,
+      "orderId": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "productId": 30,
+      "quantity": 6,
+      "price": 5292
+    },
+    {
+      "id": 17,
+      "orderId": "8b05923e-fabe-4ac6-b2ab-f13f91683856",
+      "productId": 41,
+      "quantity": 2,
+      "price": 746
+    },
+    {
+      "id": 18,
+      "orderId": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "productId": 19,
+      "quantity": 4,
+      "price": 3060
+    },
+    {
+      "id": 19,
+      "orderId": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "productId": 1,
+      "quantity": 4,
+      "price": 3620
+    },
+    {
+      "id": 20,
+      "orderId": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "productId": 13,
+      "quantity": 3,
+      "price": 2142
+    },
+    {
+      "id": 21,
+      "orderId": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "productId": 22,
+      "quantity": 3,
+      "price": 2517
+    },
+    {
+      "id": 22,
+      "orderId": "a8c298d0-b73c-408e-b667-10c96c854969",
+      "productId": 49,
+      "quantity": 3,
+      "price": 2430
+    },
+    {
+      "id": 23,
+      "orderId": "4ce385a3-afba-4e6c-8242-bd2ea2774761",
+      "productId": 44,
+      "quantity": 2,
+      "price": 1438
+    },
+    {
+      "id": 24,
+      "orderId": "4ce385a3-afba-4e6c-8242-bd2ea2774761",
+      "productId": 10,
+      "quantity": 3,
+      "price": 543
+    },
+    {
+      "id": 25,
+      "orderId": "4ce385a3-afba-4e6c-8242-bd2ea2774761",
+      "productId": 13,
+      "quantity": 4,
+      "price": 2856
+    },
+    {
+      "id": 26,
+      "orderId": "4ce385a3-afba-4e6c-8242-bd2ea2774761",
+      "productId": 43,
+      "quantity": 3,
+      "price": 2415
+    },
+    {
+      "id": 27,
+      "orderId": "3e85e2ce-f816-49a8-9d9f-0d0fd069defd",
+      "productId": 20,
+      "quantity": 1,
+      "price": 439
+    },
+    {
+      "id": 28,
+      "orderId": "3e85e2ce-f816-49a8-9d9f-0d0fd069defd",
+      "productId": 22,
+      "quantity": 2,
+      "price": 1678
+    },
+    {
+      "id": 29,
+      "orderId": "3e85e2ce-f816-49a8-9d9f-0d0fd069defd",
+      "productId": 19,
+      "quantity": 3,
+      "price": 2295
+    },
+    {
+      "id": 30,
+      "orderId": "3e85e2ce-f816-49a8-9d9f-0d0fd069defd",
+      "productId": 11,
+      "quantity": 1,
+      "price": 492
+    },
+    {
+      "id": 31,
+      "orderId": "92c5f891-b576-49c7-ab2b-04921e67f3fa",
+      "productId": 19,
+      "quantity": 3,
+      "price": 2295
+    },
+    {
+      "id": 32,
+      "orderId": "3eead3f5-2e8f-42f3-8790-c8dc8cd6342a",
+      "productId": 11,
+      "quantity": 4,
+      "price": 1968
+    },
+    {
+      "id": 33,
+      "orderId": "3eead3f5-2e8f-42f3-8790-c8dc8cd6342a",
+      "productId": 8,
+      "quantity": 4,
+      "price": 3472
+    },
+    {
+      "id": 34,
+      "orderId": "3eead3f5-2e8f-42f3-8790-c8dc8cd6342a",
+      "productId": 36,
+      "quantity": 1,
+      "price": 253
+    }
+  ],
+  "carts": [
+    {
+      "id": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "userId": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+      "createdAt": "2024-03-04T09:21:17.479Z",
+      "updatedAt": "2024-07-15T05:18:52.458Z"
+    },
+    {
+      "id": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "createdAt": "2023-09-22T14:16:11.827Z",
+      "updatedAt": "2024-07-15T10:01:43.677Z"
+    },
+    {
+      "id": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "createdAt": "2024-04-22T07:49:57.627Z",
+      "updatedAt": "2024-07-15T03:52:36.338Z"
+    },
+    {
+      "id": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "userId": "117b8c55-16e1-4637-a66e-324bd2378afb",
+      "createdAt": "2023-09-17T19:48:43.352Z",
+      "updatedAt": "2024-07-15T09:04:16.734Z"
+    },
+    {
+      "id": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "userId": "7a46d27f-f001-468e-8603-3b3d13a37b39",
+      "createdAt": "2024-05-16T09:11:15.873Z",
+      "updatedAt": "2024-07-15T11:36:49.133Z"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "cartId": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "productId": 11,
+      "quantity": 10,
+      "addedAt": "2024-07-14T22:07:29.757Z"
+    },
+    {
+      "id": 2,
+      "cartId": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "productId": 31,
+      "quantity": 5,
+      "addedAt": "2024-07-15T10:55:31.092Z"
+    },
+    {
+      "id": 3,
+      "cartId": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "productId": 17,
+      "quantity": 9,
+      "addedAt": "2024-07-15T03:41:53.291Z"
+    },
+    {
+      "id": 4,
+      "cartId": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "productId": 11,
+      "quantity": 2,
+      "addedAt": "2024-07-15T05:46:27.018Z"
+    },
+    {
+      "id": 5,
+      "cartId": "6fcec393-67e2-4c13-8117-5fe96897e62e",
+      "productId": 1,
+      "quantity": 3,
+      "addedAt": "2024-07-15T13:18:18.256Z"
+    },
+    {
+      "id": 6,
+      "cartId": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "productId": 26,
+      "quantity": 2,
+      "addedAt": "2024-07-15T12:05:56.228Z"
+    },
+    {
+      "id": 7,
+      "cartId": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "productId": 28,
+      "quantity": 6,
+      "addedAt": "2024-07-15T08:13:43.650Z"
+    },
+    {
+      "id": 8,
+      "cartId": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "productId": 39,
+      "quantity": 8,
+      "addedAt": "2024-07-15T05:33:30.766Z"
+    },
+    {
+      "id": 9,
+      "cartId": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "productId": 27,
+      "quantity": 7,
+      "addedAt": "2024-07-15T06:11:30.312Z"
+    },
+    {
+      "id": 10,
+      "cartId": "4fc2c927-5d38-4064-bedd-0b5d9a3af050",
+      "productId": 20,
+      "quantity": 4,
+      "addedAt": "2024-07-14T21:30:04.921Z"
+    },
+    {
+      "id": 11,
+      "cartId": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "productId": 21,
+      "quantity": 2,
+      "addedAt": "2024-07-15T13:40:12.613Z"
+    },
+    {
+      "id": 12,
+      "cartId": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "productId": 4,
+      "quantity": 7,
+      "addedAt": "2024-07-15T02:30:39.913Z"
+    },
+    {
+      "id": 13,
+      "cartId": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "productId": 13,
+      "quantity": 9,
+      "addedAt": "2024-07-15T13:51:44.290Z"
+    },
+    {
+      "id": 14,
+      "cartId": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "productId": 7,
+      "quantity": 2,
+      "addedAt": "2024-07-15T09:18:56.382Z"
+    },
+    {
+      "id": 15,
+      "cartId": "85bb8e7e-d655-4580-8b97-66f9e3c0c321",
+      "productId": 19,
+      "quantity": 1,
+      "addedAt": "2024-07-14T19:42:22.287Z"
+    },
+    {
+      "id": 16,
+      "cartId": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "productId": 39,
+      "quantity": 8,
+      "addedAt": "2024-07-14T23:53:45.137Z"
+    },
+    {
+      "id": 17,
+      "cartId": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "productId": 48,
+      "quantity": 4,
+      "addedAt": "2024-07-15T11:54:14.345Z"
+    },
+    {
+      "id": 18,
+      "cartId": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "productId": 46,
+      "quantity": 5,
+      "addedAt": "2024-07-15T03:21:11.417Z"
+    },
+    {
+      "id": 19,
+      "cartId": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "productId": 14,
+      "quantity": 4,
+      "addedAt": "2024-07-15T03:23:17.892Z"
+    },
+    {
+      "id": 20,
+      "cartId": "8b2501e1-688b-4bc3-a8a4-890d2146b5d1",
+      "productId": 9,
+      "quantity": 3,
+      "addedAt": "2024-07-15T05:16:32.861Z"
+    },
+    {
+      "id": 21,
+      "cartId": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "productId": 24,
+      "quantity": 4,
+      "addedAt": "2024-07-14T19:30:13.698Z"
+    },
+    {
+      "id": 22,
+      "cartId": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "productId": 28,
+      "quantity": 4,
+      "addedAt": "2024-07-15T14:59:08.311Z"
+    },
+    {
+      "id": 23,
+      "cartId": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "productId": 33,
+      "quantity": 6,
+      "addedAt": "2024-07-15T16:16:02.179Z"
+    },
+    {
+      "id": 24,
+      "cartId": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "productId": 40,
+      "quantity": 1,
+      "addedAt": "2024-07-15T03:30:03.972Z"
+    },
+    {
+      "id": 25,
+      "cartId": "bddd35b8-246b-4ab4-9955-91914d8407cd",
+      "productId": 16,
+      "quantity": 1,
+      "addedAt": "2024-07-14T19:49:00.125Z"
+    }
+  ]
+}
