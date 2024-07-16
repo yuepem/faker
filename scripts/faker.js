@@ -11,9 +11,9 @@ const accounts = [];
 const categories = [];
 const products = [];
 const orders = [];
-const orderItems = [];
+const order_items = [];
 const carts = [];
-const cartItems = [];
+const cart_items = [];
 
 // Initialize counters for serial IDs
 let addressIdCounter = 1;
@@ -31,11 +31,11 @@ for (let i = 0; i < 10; i++) {
   const user = {
     id: userId,
     name: faker.person.firstName(),
-    phoneNumber: faker.phone.number(),
+    phone_number: faker.phone.number(),
     email: faker.internet.email(),
-    passwordHash: faker.internet.password(),
-    createdAt: faker.date.past(),
-    updatedAt: faker.date.recent(),
+    password_hash: faker.internet.password(),
+    created_at: faker.date.past(),
+    updated_at: faker.date.recent(),
   };
   users.push(user);
 
@@ -44,10 +44,10 @@ for (let i = 0; i < 10; i++) {
     street: faker.location.streetAddress(),
     city: faker.location.city(),
     state: faker.location.state(),
-    zipCode: faker.location.zipCode(),
-    userId: userId,
-    createdAt: faker.date.past(),
-    updatedAt: faker.date.recent(),
+    zip_code: faker.location.zipCode(),
+    user_id: userId,
+    created_at: faker.date.past(),
+    updated_at: faker.date.recent(),
   };
   addresses.push(address);
 }
@@ -70,9 +70,9 @@ for (let i = 0; i < 5; i++) {
       description: faker.commerce.productDescription(),
       price: faker.commerce.price({min: 35, max: 999}),
       stock: faker.number.int({ min: 1, max: 100 }),
-      categoryId: categoryId,
-      createdAt: faker.date.past(),
-      updatedAt: faker.date.recent(),
+      category_id: categoryId,
+      created_at: faker.date.past(),
+      updated_at: faker.date.recent(),
     };
     products.push(product);
   }
@@ -92,8 +92,8 @@ function createFakeOrderItems(orderId) {
 
     items.push({
       id: orderItemIdCounter++,
-      orderId: orderId,
-      productId: product.id,
+      order_id: orderId,
+      product_id: product.id,
       quantity: quantity,
       price: price,
     });
@@ -110,14 +110,14 @@ for (let i = 0; i < 10; i++) {
 
   const order = {
     id: orderId,
-    userId: userId,
+    user_id: userId,
     status: faker.helpers.arrayElement(['pending', 'paid', 'done', 'customer_canceled']),
     total: totalPrice,
-    createdAt: faker.date.past(),
-    updatedAt: faker.date.recent(),
+    created_at: faker.date.past(),
+    updated_at: faker.date.recent(),
   };
   orders.push(order);
-  orderItems.push(...items);
+  order_items.push(...items);
 }
 
 // Generate Carts and Cart Items
@@ -127,9 +127,9 @@ for (let i = 0; i < 5; i++) {
 
   const cart = {
     id: cartId,
-    userId: userId,
-    createdAt: faker.date.past(),
-    updatedAt: faker.date.recent(),
+    user_id: userId,
+    created_at: faker.date.past(),
+    updated_at: faker.date.recent(),
   };
   carts.push(cart);
 
@@ -139,12 +139,12 @@ for (let i = 0; i < 5; i++) {
 
     const cartItem = {
       id: cartItemIdCounter++,
-      cartId: cartId,
-      productId: product.id,
+      cart_id: cartId,
+      product_id: product.id,
       quantity: quantity,
-      addedAt: faker.date.recent(),
+      added_at: faker.date.recent(),
     };
-    cartItems.push(cartItem);
+    cart_items.push(cartItem);
   }
 }
 
@@ -154,17 +154,17 @@ for (let i = 0; i < 10; i++) {
   const accountId = generateUUID();
   const account = {
     id: accountId,
-    userId: userId,
+    user_id: userId,
     type: faker.helpers.arrayElement(['user', 'admin']),
     provider: faker.company.name(),
-    providerAccountId: faker.string.uuid(),
-    refreshToken: faker.internet.password(),
-    accessToken: faker.internet.password(),
-    expiresAt: faker.date.future(),
-    tokenType: faker.string.nanoid(),
+    provider_account_id: faker.string.uuid(),
+    refresh_token: faker.internet.password(),
+    access_token: faker.internet.password(),
+    expires_at: faker.date.future(),
+    token_type: faker.string.nanoid(),
     scope: faker.string.alpha(10),
-    idToken: faker.internet.password(),
-    sessionState: faker.string.alpha(10),
+    id_token: faker.internet.password(),
+    session_state: faker.string.alpha(10),
   };
   accounts.push(account);
 }
@@ -176,15 +176,15 @@ console.log("Accounts:", accounts.length);
 console.log("Categories:", categories.length);
 console.log("Products:", products.length);
 console.log("Orders:", orders.length);
-console.log("Order Items:", orderItems.length);
+console.log("Order Items:", order_items.length);
 console.log("Carts:", carts.length);
-console.log("Cart Items:", cartItems.length);
+console.log("Cart Items:", cart_items.length);
 
 console.log("Printed data to console,Staring to write to JSON file");
 
 
 // Write generated data to JSON files
-fs.writeFileSync('fakeData.json', JSON.stringify({users, addresses, accounts, categories, products,orders, orderItems, carts, cartItems}, null, 2), (err) => {
+fs.writeFileSync('../generatedData/fakeData3.json', JSON.stringify({users, addresses, accounts, categories, products,orders, order_items, carts, cart_items}, null, 2), (err) => {
   if (err) {
     console.error(err);
   }
