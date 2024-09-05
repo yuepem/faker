@@ -1,0 +1,45 @@
+{
+    "users": [
+      {
+        "id": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+        "name": "Brady",
+        "phoneNumber": "1-611-445-1684",
+        "email": "Royal14@yahoo.com",
+        "passwordHash": "ivldFaaDjJk1O3q",
+        "createdAt": "2024-06-21T16:22:00.002Z",
+        "updatedAt": "2024-07-15T03:06:43.215Z"
+      },
+      {
+        "id": "7a46d27f-f001-468e-8603-3b3d13a37b39",
+        "name": "Gerson",
+        "phoneNumber": "1-658-263-2076",
+        "email": "Addison.Keebler@yahoo.com",
+        "passwordHash": "YQxWk90A7BslFmB",
+        "createdAt": "2024-01-29T02:05:24.487Z",
+        "updatedAt": "2024-07-14T21:02:17.631Z"
+      }
+    ],
+    "addresses": [
+      {
+        "id": 1,
+        "street": "360 Demarco Gardens",
+        "city": "Taunton",
+        "state": "Idaho",
+        "zipCode": "67324-2089",
+        "userId": "6835d8e5-ba1a-4f5d-9894-6edfe5231a4b",
+        "createdAt": "2023-09-20T03:58:56.437Z",
+        "updatedAt": "2024-07-14T18:51:33.161Z"
+      },
+      {
+        "id": 2,
+        "street": "8457 Woodlands Road",
+        "city": "Sylvanmouth",
+        "state": "Maryland",
+        "zipCode": "20987-6591",
+        "userId": "2a7a36c0-c045-4c40-9756-aa140ff5abf6",
+        "createdAt": "2023-12-11T17:39:04.608Z",
+        "updatedAt": "2024-07-15T01:47:21.078Z"
+      }
+    ]
+  }
+  

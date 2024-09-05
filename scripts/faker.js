@@ -2,8 +2,6 @@
 const fs = require('fs');
 const { faker } = require('@faker-js/faker');
 
-
-
 // Store generated data
 const users = [];
 const addresses = [];
@@ -18,7 +16,6 @@ const cart_items = [];
 // Initialize counters for serial IDs
 let addressIdCounter = 1;
 let categoryIdCounter = 1;
-let productIdCounter = 1;
 let orderItemIdCounter = 1;
 let cartItemIdCounter = 1;
 
@@ -28,6 +25,7 @@ const generateUUID = () => faker.string.uuid();
 // Generate Users and Addresses
 for (let i = 0; i < 10; i++) {
   const userId = generateUUID();
+  const addressId = generateUUID();
   const user = {
     id: userId,
     name: faker.person.firstName(),
@@ -40,7 +38,7 @@ for (let i = 0; i < 10; i++) {
   users.push(user);
 
   const address = {
-    id: addressIdCounter++,
+    id: addressId,
     street: faker.location.streetAddress(),
     city: faker.location.city(),
     state: faker.location.state(),
@@ -53,8 +51,8 @@ for (let i = 0; i < 10; i++) {
 }
 
 // Generate Categories and Products
-for (let i = 0; i < 5; i++) {
-  const categoryId = categoryIdCounter++;
+for (let i = 0; i < 9; i++) {
+  const categoryId = faker.number.int({ min: 1, max: 100 });
   const category = {
     id: categoryId,
     name: faker.commerce.department(),
@@ -63,7 +61,7 @@ for (let i = 0; i < 5; i++) {
   categories.push(category);
 
   for (let j = 0; j < 10; j++) {
-    const productId = productIdCounter++;
+    const productId = generateUUID();
     const product = {
       id: productId,
       name: faker.commerce.productName(),
@@ -71,6 +69,20 @@ for (let i = 0; i < 5; i++) {
       price: faker.commerce.price({min: 35, max: 999}),
       stock: faker.number.int({ min: 1, max: 100 }),
       category_id: categoryId,
+      accordion: [
+        {
+          question: "Information",
+          answer: faker.lorem.lines({ min: 2, max: 4 })
+        },
+        {
+          question: faker.lorem.words({ min: 3, max: 5 }),
+          answer: faker.lorem.sentences({ min: 1, max: 3 })
+        },
+        {
+          question: faker.lorem.words({ min: 3, max: 5 }),
+          answer: faker.lorem.sentences({ min: 1, max: 3 })
+        }
+      ],
       created_at: faker.date.past(),
       updated_at: faker.date.recent(),
     };
@@ -80,18 +92,19 @@ for (let i = 0; i < 5; i++) {
 
 // Helper function to generate fake order items and calculate total price
 function createFakeOrderItems(orderId) {
+  const itemId = generateUUID();
   const numberOfOrderItems = faker.number.int({ min: 1, max: 5 });
   let totalPrice = 0;
   const items = [];
 
   for (let i = 0; i < numberOfOrderItems; i++) {
     const product = faker.helpers.arrayElement(products);
-    const quantity = faker.number.int({ min: 1, max: 6 });
+    const quantity = faker.number.int({ min: 1, max: 5 });
     const price = product.price * quantity;
     totalPrice += price;
 
     items.push({
-      id: orderItemIdCounter++,
+      id: itemId,
       order_id: orderId,
       product_id: product.id,
       quantity: quantity,
@@ -184,7 +197,7 @@ console.log("Printed data to console,Staring to write to JSON file");
 
 
 // Write generated data to JSON files
-fs.writeFileSync('../generatedData/fakeData3.json', JSON.stringify({users, addresses, accounts, categories, products,orders, order_items, carts, cart_items}, null, 2), (err) => {
+fs.writeFileSync('../generatedData/fakeData4.json', JSON.stringify({users, addresses, accounts, categories, products,orders, order_items, carts, cart_items}, null, 2), (err) => {
   if (err) {
     console.error(err);
   }

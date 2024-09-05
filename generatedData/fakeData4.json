@@ -1,0 +1,2980 @@
+{
+  "users": [
+    {
+      "id": "7739fb5b-a31f-46a1-bc16-9054e72eaba3",
+      "name": "Gregg",
+      "phone_number": "(872) 452-7682",
+      "email": "Wyman.Skiles@gmail.com",
+      "password_hash": "ob6VMvkEq7FjjGc",
+      "created_at": "2023-12-31T10:38:52.119Z",
+      "updated_at": "2024-08-22T05:17:56.595Z"
+    },
+    {
+      "id": "6cdae926-5f9c-4525-aac8-93796aadb140",
+      "name": "Belle",
+      "phone_number": "(809) 548-1787",
+      "email": "Marietta67@yahoo.com",
+      "password_hash": "b5TJgeXnWn43WED",
+      "created_at": "2024-03-12T06:58:43.147Z",
+      "updated_at": "2024-08-22T01:02:48.361Z"
+    },
+    {
+      "id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "name": "Roderick",
+      "phone_number": "1-357-915-1290 x53396",
+      "email": "Letha.Durgan@hotmail.com",
+      "password_hash": "9ySh_xqfPFzxElP",
+      "created_at": "2024-07-22T07:33:03.591Z",
+      "updated_at": "2024-08-21T16:13:56.644Z"
+    },
+    {
+      "id": "876884d0-941b-4560-b3fe-bd84876aaa60",
+      "name": "Kareem",
+      "phone_number": "331.832.2505",
+      "email": "Alberto.Lind10@hotmail.com",
+      "password_hash": "6Fzo2Q3nw7TfIgL",
+      "created_at": "2024-08-07T02:12:32.763Z",
+      "updated_at": "2024-08-21T18:03:44.829Z"
+    },
+    {
+      "id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "name": "Forest",
+      "phone_number": "1-562-477-9265 x099",
+      "email": "Mattie_Muller46@hotmail.com",
+      "password_hash": "3_LgVZmCwsNgCeO",
+      "created_at": "2024-03-23T04:25:09.935Z",
+      "updated_at": "2024-08-22T07:25:21.651Z"
+    },
+    {
+      "id": "936ced94-8ecb-4e9b-95e8-69d772e213c3",
+      "name": "Abbey",
+      "phone_number": "478.657.8715 x556",
+      "email": "Leland52@hotmail.com",
+      "password_hash": "WBygikcgpebGHGq",
+      "created_at": "2024-07-20T12:31:02.328Z",
+      "updated_at": "2024-08-21T20:10:34.297Z"
+    },
+    {
+      "id": "bde804b7-fcea-4975-8899-86775afa7483",
+      "name": "Kaylah",
+      "phone_number": "(336) 855-6195 x1058",
+      "email": "Alfreda.Wyman@gmail.com",
+      "password_hash": "0aaCqkSqrRflzYl",
+      "created_at": "2024-07-25T23:57:10.503Z",
+      "updated_at": "2024-08-22T05:05:06.001Z"
+    },
+    {
+      "id": "3be16d11-7461-4344-b2b7-836614ddbdfa",
+      "name": "Garnett",
+      "phone_number": "1-444-326-5961",
+      "email": "Margarette.Mertz71@yahoo.com",
+      "password_hash": "Tx1xqNcc9D7uYTw",
+      "created_at": "2024-02-27T01:13:37.444Z",
+      "updated_at": "2024-08-22T07:41:17.541Z"
+    },
+    {
+      "id": "7dd8ead0-0a61-436d-8261-b8c01cb50973",
+      "name": "Major",
+      "phone_number": "(856) 722-0380 x244",
+      "email": "Kian_Swaniawski14@hotmail.com",
+      "password_hash": "u2Z7GufTVpmgkkG",
+      "created_at": "2024-07-28T06:59:35.205Z",
+      "updated_at": "2024-08-21T14:19:24.946Z"
+    },
+    {
+      "id": "2b75215a-103e-40f1-a04a-fdecfb4305e5",
+      "name": "Bernard",
+      "phone_number": "1-634-555-0583 x921",
+      "email": "Reba.Larson@yahoo.com",
+      "password_hash": "onkDIu9K0hwmnXE",
+      "created_at": "2024-08-11T14:16:50.377Z",
+      "updated_at": "2024-08-21T21:21:38.138Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "1ed96281-1263-41e5-8ae5-b35e5f95ea7a",
+      "street": "9297 Littel Path",
+      "city": "Turnerhaven",
+      "state": "Ohio",
+      "zip_code": "91017",
+      "user_id": "7739fb5b-a31f-46a1-bc16-9054e72eaba3",
+      "created_at": "2024-07-18T11:51:30.302Z",
+      "updated_at": "2024-08-21T11:45:38.698Z"
+    },
+    {
+      "id": "23e6bb93-e535-401f-8140-2790b4779684",
+      "street": "3917 State Avenue",
+      "city": "South Everette",
+      "state": "New Mexico",
+      "zip_code": "95472",
+      "user_id": "6cdae926-5f9c-4525-aac8-93796aadb140",
+      "created_at": "2023-11-04T08:11:30.250Z",
+      "updated_at": "2024-08-21T17:22:48.763Z"
+    },
+    {
+      "id": "8a69bd3c-9939-4ed2-b769-901e0ff266e3",
+      "street": "860 Central Street",
+      "city": "Fort Luciusbury",
+      "state": "Montana",
+      "zip_code": "71601-8201",
+      "user_id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "created_at": "2024-01-31T02:22:27.674Z",
+      "updated_at": "2024-08-21T21:59:08.950Z"
+    },
+    {
+      "id": "aef68f09-0ec4-42ab-979b-ef7c9feb17ea",
+      "street": "604 Stamm Loaf",
+      "city": "Santa Barbara",
+      "state": "Nebraska",
+      "zip_code": "42689-3781",
+      "user_id": "876884d0-941b-4560-b3fe-bd84876aaa60",
+      "created_at": "2024-01-25T03:02:13.792Z",
+      "updated_at": "2024-08-21T10:50:10.493Z"
+    },
+    {
+      "id": "9da7a135-717e-4de8-9900-97b82fca76e4",
+      "street": "965 Willow Street",
+      "city": "Bellflower",
+      "state": "Michigan",
+      "zip_code": "39974",
+      "user_id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "created_at": "2023-11-04T19:02:03.642Z",
+      "updated_at": "2024-08-22T01:11:09.206Z"
+    },
+    {
+      "id": "50876e1a-399e-481c-a273-72989ee6dbd8",
+      "street": "89861 Alberta Stream",
+      "city": "Lake Kallieberg",
+      "state": "Arizona",
+      "zip_code": "82197-8281",
+      "user_id": "936ced94-8ecb-4e9b-95e8-69d772e213c3",
+      "created_at": "2024-06-21T21:37:36.762Z",
+      "updated_at": "2024-08-22T05:41:34.362Z"
+    },
+    {
+      "id": "882fd508-ef9f-4f96-bb4d-3588f6641d53",
+      "street": "7081 Schoen Neck",
+      "city": "Stanmouth",
+      "state": "Rhode Island",
+      "zip_code": "26449-3276",
+      "user_id": "bde804b7-fcea-4975-8899-86775afa7483",
+      "created_at": "2024-02-29T22:55:00.437Z",
+      "updated_at": "2024-08-21T19:15:16.129Z"
+    },
+    {
+      "id": "c163834d-68e0-457c-a515-c3834e533bf9",
+      "street": "79402 Central Avenue",
+      "city": "Collinsstead",
+      "state": "Maine",
+      "zip_code": "73946",
+      "user_id": "3be16d11-7461-4344-b2b7-836614ddbdfa",
+      "created_at": "2024-01-02T10:18:50.586Z",
+      "updated_at": "2024-08-22T06:02:34.890Z"
+    },
+    {
+      "id": "c2d7ecf7-689f-433a-8493-f7e83170b46e",
+      "street": "1946 Bednar Oval",
+      "city": "Cordiecester",
+      "state": "Maryland",
+      "zip_code": "10047-4822",
+      "user_id": "7dd8ead0-0a61-436d-8261-b8c01cb50973",
+      "created_at": "2023-08-29T10:18:34.921Z",
+      "updated_at": "2024-08-21T11:19:40.990Z"
+    },
+    {
+      "id": "ab871416-d370-4be3-a9bf-520dc272ba12",
+      "street": "14545 Pine Street",
+      "city": "North Nathan",
+      "state": "Illinois",
+      "zip_code": "19839",
+      "user_id": "2b75215a-103e-40f1-a04a-fdecfb4305e5",
+      "created_at": "2024-03-08T06:33:07.039Z",
+      "updated_at": "2024-08-22T08:12:52.827Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "1ed8ea2c-086b-475a-8729-36c979beb3ae",
+      "user_id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "type": "admin",
+      "provider": "Jones - Hodkiewicz",
+      "provider_account_id": "17e13567-f5a1-474c-8117-ddb3fdd76236",
+      "refresh_token": "3Zs5sr9sf7PUsiL",
+      "access_token": "7v7KY8CokMLzzCQ",
+      "expires_at": "2025-02-05T06:55:00.236Z",
+      "token_type": "mnUsE1bDmyuup9u0r0nSz",
+      "scope": "WZuStbjjuK",
+      "id_token": "IPPAsC32bp5vedC",
+      "session_state": "QZcOLVXjuT"
+    },
+    {
+      "id": "cc2864e4-7873-4cf8-a4ab-496369405123",
+      "user_id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "type": "admin",
+      "provider": "Dach - Langworth",
+      "provider_account_id": "f5d246f9-e149-4c76-a73e-4b3733bf94cc",
+      "refresh_token": "OiONJOwwXJhFzNP",
+      "access_token": "5MFC_0mhfzxApDX",
+      "expires_at": "2025-05-08T09:26:25.959Z",
+      "token_type": "uUn-D95JOB_rB6R6FGgHg",
+      "scope": "SkZJpIApNt",
+      "id_token": "7G_K9kR7Yy9wSmn",
+      "session_state": "xjyfBHluPP"
+    },
+    {
+      "id": "e2587ef6-653a-4b32-aa46-c4f5a15c54b9",
+      "user_id": "876884d0-941b-4560-b3fe-bd84876aaa60",
+      "type": "admin",
+      "provider": "Nitzsche and Sons",
+      "provider_account_id": "4007367e-8643-4d67-a61e-6b7a644ae770",
+      "refresh_token": "PlPl5TkuMF00ErG",
+      "access_token": "rE99XhrWDCpP39h",
+      "expires_at": "2025-06-27T01:53:47.471Z",
+      "token_type": "O619ZN6UqDS3muCwId9rB",
+      "scope": "YhZbnyJEph",
+      "id_token": "Yp8hvROl_C78v1w",
+      "session_state": "DNNletyQmo"
+    },
+    {
+      "id": "ed85f8ab-bb4a-4be1-82d4-732900ff151e",
+      "user_id": "2b75215a-103e-40f1-a04a-fdecfb4305e5",
+      "type": "user",
+      "provider": "O'Connell - Reynolds",
+      "provider_account_id": "f23e9324-87cf-4522-a805-3217e5bf217c",
+      "refresh_token": "2e1ydJsehiESDDQ",
+      "access_token": "wPnkTw0DswyJzFI",
+      "expires_at": "2025-02-12T13:01:20.274Z",
+      "token_type": "9miXPuRuLlhzo5HLFl3JE",
+      "scope": "nglcYGqXPP",
+      "id_token": "JX2wVXv7Veu5I5h",
+      "session_state": "WrwuXbnANN"
+    },
+    {
+      "id": "ea0129b7-575b-4803-9583-e1cbd8dc5494",
+      "user_id": "6cdae926-5f9c-4525-aac8-93796aadb140",
+      "type": "user",
+      "provider": "Gleichner - Hackett",
+      "provider_account_id": "0a675bb0-2400-415c-ad53-7ac39c107e9a",
+      "refresh_token": "KurldfR8qGhJF75",
+      "access_token": "sTXma7xHO773v0j",
+      "expires_at": "2024-11-11T07:51:16.078Z",
+      "token_type": "yC4YYDet4UPdTlmQ2ISEH",
+      "scope": "qYDXWbrkYn",
+      "id_token": "szVa4BdRk1jsNYA",
+      "session_state": "nCEyGZqNHb"
+    },
+    {
+      "id": "ca354746-0f69-4edc-8d8a-cad0a60ea7f1",
+      "user_id": "3be16d11-7461-4344-b2b7-836614ddbdfa",
+      "type": "admin",
+      "provider": "Cronin, MacGyver and Tillman",
+      "provider_account_id": "d1b846c6-4e4c-40df-b2a5-ac6214bd2063",
+      "refresh_token": "7X6HmSVdsaDwiS2",
+      "access_token": "uF0qUwLJAuYoyhW",
+      "expires_at": "2025-05-18T04:11:12.861Z",
+      "token_type": "-a6kO-JcE-_Gcxd-35YSM",
+      "scope": "kquuwrJBXl",
+      "id_token": "5QmS2KcyyNEqEA5",
+      "session_state": "EcBRMuEume"
+    },
+    {
+      "id": "56fcca39-bdfe-454f-884d-122f44aaf238",
+      "user_id": "7dd8ead0-0a61-436d-8261-b8c01cb50973",
+      "type": "admin",
+      "provider": "Raynor, McClure and Stoltenberg",
+      "provider_account_id": "b65707dd-65d1-457b-a27c-829a51421961",
+      "refresh_token": "BG_SORA8P_uBr6l",
+      "access_token": "yvdcSPvQhxa8_wn",
+      "expires_at": "2025-06-09T19:05:23.029Z",
+      "token_type": "LF1Z9osz-HsKadNSfhRgl",
+      "scope": "IQQkOAEWpG",
+      "id_token": "yO1vjvpDliaYkKt",
+      "session_state": "NqcCCfyacw"
+    },
+    {
+      "id": "f9a69869-449a-4a97-9584-92a20c6f5f42",
+      "user_id": "936ced94-8ecb-4e9b-95e8-69d772e213c3",
+      "type": "user",
+      "provider": "Macejkovic, Hermann and Zieme",
+      "provider_account_id": "2105b587-25d1-458c-8d77-2a40dce6f69d",
+      "refresh_token": "tMwLxbRa0ijfaBw",
+      "access_token": "35S3gnnEGr8jRlt",
+      "expires_at": "2024-10-16T09:20:45.915Z",
+      "token_type": "RFVkLFhqJ2bcBvTzvcy5A",
+      "scope": "phTAbPGVXg",
+      "id_token": "1FJzv3yLazsfH1g",
+      "session_state": "sKFgoGwBZl"
+    },
+    {
+      "id": "94d5dba1-8110-4c82-a4a0-8794bd8bf76a",
+      "user_id": "7dd8ead0-0a61-436d-8261-b8c01cb50973",
+      "type": "admin",
+      "provider": "King - Maggio",
+      "provider_account_id": "339816f7-062f-4657-b1c7-a0d88ad23a9a",
+      "refresh_token": "1u673E2YkT3vSEg",
+      "access_token": "kfEGgO2kpkbiGzS",
+      "expires_at": "2024-12-19T23:26:40.758Z",
+      "token_type": "VKTzCqzFToV79IubJ64jC",
+      "scope": "UCeynTzqao",
+      "id_token": "Wh74Xuxemnlha8D",
+      "session_state": "fERyYbpFib"
+    },
+    {
+      "id": "05ee79fe-036c-4459-a458-35eafc1516ea",
+      "user_id": "2b75215a-103e-40f1-a04a-fdecfb4305e5",
+      "type": "admin",
+      "provider": "Cassin - Kunde",
+      "provider_account_id": "2729b0a9-643a-44d8-8b2b-8376f9d10c7c",
+      "refresh_token": "FCsQgAYqRS7DAo4",
+      "access_token": "p17__jUDm0RKliC",
+      "expires_at": "2025-03-23T20:00:01.842Z",
+      "token_type": "7XlibNlc78aWGlDhkiLnv",
+      "scope": "wTvqnMkYnL",
+      "id_token": "zjOw9f9SeqbjkNw",
+      "session_state": "asnmzcQGcJ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 96,
+      "name": "Toys",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": 97,
+      "name": "Grocery",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    },
+    {
+      "id": 92,
+      "name": "Industrial",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    },
+    {
+      "id": 2,
+      "name": "Computers",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+    },
+    {
+      "id": 93,
+      "name": "Electronics",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+    },
+    {
+      "id": 30,
+      "name": "Automotive",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+    },
+    {
+      "id": 87,
+      "name": "Health",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    {
+      "id": 100,
+      "name": "Books",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    {
+      "id": 23,
+      "name": "Baby",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    }
+  ],
+  "products": [
+    {
+      "id": "62f70d3a-cffa-4cdb-a084-1f4c9f2ad2f5",
+      "name": "Fantastic Fresh Table",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "377.00",
+      "stock": 91,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Paulatim delego veritatis cohaero cicuta aetas animus dolorum vomito.\nMolestias itaque demum deprimo adeptio vita vel quaerat.\nQuisquam ascisco vulgus tabesco usque deficio alveus accusantium spiritus circumvenio."
+        },
+        {
+          "question": "defendo templum clam tabernus cultellus",
+          "answer": "Summa quam veniam pauci barba. Apto administratio aestus benigne aperio absconditus. Eligendi demens triduana cognatus valetudo crux virga distinctio turbo arca."
+        },
+        {
+          "question": "ulciscor a cauda arcus",
+          "answer": "Subseco vereor adfero crebro cultura benigne. Vis aeternus brevis ter candidus fugit constans."
+        }
+      ],
+      "created_at": "2024-08-09T17:13:12.346Z",
+      "updated_at": "2024-08-21T11:43:25.570Z"
+    },
+    {
+      "id": "668af218-fc18-4f26-b80e-a314b0da6164",
+      "name": "Unbranded Steel Hat",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "932.00",
+      "stock": 32,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cedo apud conculco verbum caelestis alius demergo supellex ait.\nTeres convoco decerno crepusculum cado tripudio ars texo."
+        },
+        {
+          "question": "vomica eos decor",
+          "answer": "Statua nihil amo ventito viriliter velut iste congregatio aspicio."
+        },
+        {
+          "question": "repellendus acervus earum beatae",
+          "answer": "Cuppedia auctus caritas ut utique comitatus."
+        }
+      ],
+      "created_at": "2023-10-22T22:42:32.621Z",
+      "updated_at": "2024-08-22T03:49:12.558Z"
+    },
+    {
+      "id": "a0b1e36b-b862-40d3-8bd0-3292b5b57df6",
+      "name": "Modern Bronze Keyboard",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "587.00",
+      "stock": 64,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Summisse atrocitas decens timor.\nDeduco adamo fuga currus avaritia claustrum conscendo.\nVelut benigne varius alius tantum depromo."
+        },
+        {
+          "question": "vesica depono conicio carpo universe",
+          "answer": "Usque ustilo color vinco."
+        },
+        {
+          "question": "aureus suus acsi",
+          "answer": "Demum amitto conturbo ulciscor cruciamentum civis commodi. Velit illum tandem adfero cariosus."
+        }
+      ],
+      "created_at": "2023-10-22T07:06:02.555Z",
+      "updated_at": "2024-08-21T16:29:33.912Z"
+    },
+    {
+      "id": "0e7207e0-bf69-48de-ab74-88442e882ea7",
+      "name": "Licensed Bronze Fish",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "385.00",
+      "stock": 4,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Repellendus vilis caterva decimus tyrannus atrox tabesco corrigo.\nAdipisci animus animadverto tergum.\nIn pecco subnecto dolorem venustas tenuis.\nVicissitudo ratione vorax."
+        },
+        {
+          "question": "agnitio nulla avaritia",
+          "answer": "Sit addo vilitas ademptio solum pecus vitiosus cinis."
+        },
+        {
+          "question": "verbera adnuo curtus",
+          "answer": "Communis commemoro vigilo."
+        }
+      ],
+      "created_at": "2024-05-18T20:27:07.215Z",
+      "updated_at": "2024-08-22T00:44:49.533Z"
+    },
+    {
+      "id": "f9fb05e4-20f3-4824-8b81-fef5705e4733",
+      "name": "Handcrafted Cotton Gloves",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "41.00",
+      "stock": 87,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Argumentum spes conventus suppellex acsi advoco aufero antiquus.\nA vetus blanditiis calcar ascisco ars texo victoria abscido supplanto.\nCommodo synagoga derideo tempus cena vae."
+        },
+        {
+          "question": "decimus quam dicta magni",
+          "answer": "Acies tremo sunt terra. Qui speculum decor stabilis eius virgo."
+        },
+        {
+          "question": "tepesco cursim deprimo harum",
+          "answer": "Appello amicitia creo pecus tres veniam amplus. Suggero basium tandem ea demens carcer creator antepono cetera."
+        }
+      ],
+      "created_at": "2024-02-01T10:23:32.984Z",
+      "updated_at": "2024-08-22T05:03:18.724Z"
+    },
+    {
+      "id": "5eec6904-1294-4394-905b-d44eaa2adbca",
+      "name": "Gorgeous Frozen Pizza",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "365.00",
+      "stock": 88,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Vestigium summa vero illo amoveo.\nUllus barba verto caute cui degusto modi centum.\nAra qui ea."
+        },
+        {
+          "question": "dolore tego inventore aeternus sol",
+          "answer": "Cernuus concido comptus cedo viscus tamisium. Traho tamisium decens enim ipsa tergeo callide ago."
+        },
+        {
+          "question": "tracto aestus aggredior tolero",
+          "answer": "Aliqua decor decumbo colligo commemoro eos delinquo stabilis somnus tristis."
+        }
+      ],
+      "created_at": "2023-11-28T00:29:12.839Z",
+      "updated_at": "2024-08-21T13:05:49.828Z"
+    },
+    {
+      "id": "9e0bb1b2-2040-4d92-9a0f-1b6f5e0973f0",
+      "name": "Modern Granite Pants",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "350.00",
+      "stock": 8,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aliquam cunae voco tabernus.\nChirographum stabilis sollicito volo animadverto vir vobis adeo.\nAdflicto tergiversatio ex subiungo vereor repellat.\nCareo illo supplanto bestia amo."
+        },
+        {
+          "question": "ultio supra possimus",
+          "answer": "Tepesco quia odit neque ademptio angelus torqueo dedecor occaecati."
+        },
+        {
+          "question": "artificiose patrocinor ducimus beatae perspiciatis",
+          "answer": "Audio talus cupio advoco suus thalassinus concedo velit appono amplus."
+        }
+      ],
+      "created_at": "2024-03-22T00:36:57.946Z",
+      "updated_at": "2024-08-21T21:27:08.453Z"
+    },
+    {
+      "id": "6dd40c6b-f21f-4d5b-ab0f-1a20a5576753",
+      "name": "Licensed Steel Fish",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "268.00",
+      "stock": 62,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ab tolero libero spero reprehenderit stipes accusamus doloribus.\nAegrus necessitatibus uredo canonicus textus confero vivo."
+        },
+        {
+          "question": "tener vae cupio tamen eaque",
+          "answer": "Crinis amicitia provident cur. Caries subito canis dolore asper conatus abbas tristis. Desolo cerno officia officia angulus."
+        },
+        {
+          "question": "voveo comminor vilitas celo",
+          "answer": "Textor velum adsuesco ustilo. Atque averto appello delinquo ventito thymum suffragium eius voluptates."
+        }
+      ],
+      "created_at": "2024-08-17T04:12:07.267Z",
+      "updated_at": "2024-08-22T04:34:11.947Z"
+    },
+    {
+      "id": "4c7642b0-ddf3-4951-9caa-741dfde2ac5c",
+      "name": "Small Plastic Towels",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "954.00",
+      "stock": 17,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Contra aptus tabernus suppellex accusantium somnus blandior conspergo ducimus pariatur.\nPossimus administratio crepusculum constans.\nTyrannus suscipio tergeo tergeo dedecor corrigo absque volup.\nAmicitia ubi sequi beatus umbra cibo depromo."
+        },
+        {
+          "question": "volutabrum stillicidium aptus tendo",
+          "answer": "Tabula quam admoveo vilitas sed adhaero. Capitulus thema combibo. Adsidue depulso clamo copiose."
+        },
+        {
+          "question": "sponte talus aegrus avarus vita",
+          "answer": "Sui strues voluptatum. Adhaero infit defaeco."
+        }
+      ],
+      "created_at": "2024-03-13T18:40:01.004Z",
+      "updated_at": "2024-08-22T05:40:26.579Z"
+    },
+    {
+      "id": "fa8f4247-d9a1-47e1-a05c-8dc5723d231b",
+      "name": "Elegant Soft Chips",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "654.00",
+      "stock": 64,
+      "category_id": 96,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Mollitia accommodo atavus caecus assentator error conscendo conservo.\nSurculus beatus volubilis deorsum quo tergiversatio sponte."
+        },
+        {
+          "question": "sonitus varius summa id",
+          "answer": "Crur decor quisquam."
+        },
+        {
+          "question": "bis commodi ante cotidie beatus",
+          "answer": "Demoror defendo tendo defero at adfero auctor turpis. Careo strues maiores usitas. Assentator illo contigo nesciunt."
+        }
+      ],
+      "created_at": "2024-04-13T22:48:18.761Z",
+      "updated_at": "2024-08-22T02:53:23.479Z"
+    },
+    {
+      "id": "e1a18c0d-f233-4355-9f6b-4e814f98bdf3",
+      "name": "Luxurious Concrete Ball",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "374.00",
+      "stock": 89,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Caries aeger angelus torqueo tepesco repellat verus.\nAdimpleo amet thorax clamo inflammatio terra theca adinventitias."
+        },
+        {
+          "question": "vaco validus caritas",
+          "answer": "Delibero vicinus color. Somnus auctor vulpes comis amet est deludo alienus demoror. Bestia laudantium aestas vomer decet vae aetas delectatio."
+        },
+        {
+          "question": "reprehenderit conservo conor vesco cultellus",
+          "answer": "Audio adeptio acervus bene. Ter coniecto spero verumtamen concedo ubi vis carbo."
+        }
+      ],
+      "created_at": "2024-03-09T14:47:09.879Z",
+      "updated_at": "2024-08-21T18:18:24.068Z"
+    },
+    {
+      "id": "549d5b11-bdaa-42c4-8354-a55816266aa7",
+      "name": "Refined Soft Chicken",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "120.00",
+      "stock": 99,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Autus aptus velut ait pax dicta.\nBlandior ventito libero atqui vinum autem taceo urbs creta.\nVesper quaerat demum spargo adduco admoveo voluptas recusandae vespillo.\nDoloribus valde aufero vinculum aggero avaritia quaerat."
+        },
+        {
+          "question": "deprimo conscendo vallum facere",
+          "answer": "Utrum deficio video contabesco dolor totus optio. Speciosus curtus despecto addo necessitatibus. Summopere a tergeo quisquam aspicio deputo eligendi verus."
+        },
+        {
+          "question": "doloremque crepusculum una esse dignissimos",
+          "answer": "Tepesco attollo animus quas ratione enim adduco."
+        }
+      ],
+      "created_at": "2023-12-15T13:36:52.578Z",
+      "updated_at": "2024-08-22T03:37:12.070Z"
+    },
+    {
+      "id": "8892fac0-158d-4b7e-ad9b-9f6a7803ff89",
+      "name": "Bespoke Metal Fish",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "129.00",
+      "stock": 3,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Credo vester auxilium clibanus pel usitas villa soleo curis.\nTollo terra cribro.\nBardus condico quia vester error verto colligo surgo vitae auditor."
+        },
+        {
+          "question": "comes bonus illum argentum",
+          "answer": "Aptus dicta deduco repudiandae subnecto catena succurro. Cunabula vehemens quaerat valetudo vapulus. Pel comminor tactus."
+        },
+        {
+          "question": "cattus arma adopto abscido",
+          "answer": "Corporis appositus centum spiculum creo. Vulgus eligendi stultus ipsum. Volva denuncio advenio versus coadunatio degero conforto tondeo."
+        }
+      ],
+      "created_at": "2024-01-31T04:43:33.106Z",
+      "updated_at": "2024-08-21T11:48:44.301Z"
+    },
+    {
+      "id": "ae19d5d4-c765-4716-b5fe-580a52e42505",
+      "name": "Tasty Granite Chicken",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "774.00",
+      "stock": 11,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Virga pax accendo exercitationem celer defetiscor subseco viscus libero supellex.\nTotus labore conscendo abeo."
+        },
+        {
+          "question": "acceptus beatus cedo temptatio",
+          "answer": "Concido magnam cruentus consuasor clementia anser versus centum sustineo. Brevis clamo tener brevis voro sol civis. Caveo valetudo comparo tantillus utrimque victus earum compello adficio."
+        },
+        {
+          "question": "sumo animus temperantia adsidue",
+          "answer": "Aqua temptatio valde theologus stips defaeco urbs utrum censura."
+        }
+      ],
+      "created_at": "2024-01-17T01:13:22.640Z",
+      "updated_at": "2024-08-21T19:05:16.113Z"
+    },
+    {
+      "id": "ebf1cf20-8cb9-4d57-9e2f-ddd518abdb4e",
+      "name": "Bespoke Cotton Pants",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "440.00",
+      "stock": 7,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Amitto tyrannus auxilium arma.\nOccaecati audentia curto defaeco angustus cognatus amplus ambulo advoco."
+        },
+        {
+          "question": "caute quos terror dignissimos sulum",
+          "answer": "Amaritudo triumphus templum thymbra dapifer angelus tutis. Quibusdam conturbo tendo."
+        },
+        {
+          "question": "eligendi sulum cui unde tristis",
+          "answer": "Combibo thermae correptius canonicus curatio aeger somniculosus. Adiuvo vesica solum altus."
+        }
+      ],
+      "created_at": "2024-03-03T18:42:18.564Z",
+      "updated_at": "2024-08-22T04:52:14.624Z"
+    },
+    {
+      "id": "bbec7939-9f48-4791-8fa1-339066b675d1",
+      "name": "Tasty Rubber Pants",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "832.00",
+      "stock": 13,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Tempora crinis aliquid totus argumentum esse angustus ut dens.\nAggero traho vomica victus sortitus baiulus cilicium crebro solium vorax.\nTurbo cornu angustus temperantia civitas."
+        },
+        {
+          "question": "arcus cunctatio curso tepidus",
+          "answer": "Decipio denego amitto."
+        },
+        {
+          "question": "teneo cohibeo xiphias",
+          "answer": "Ago aeternus velociter versus acervus officiis altus. Aegrus dolorem tardus commodi amiculum totus repellat sapiente cogo."
+        }
+      ],
+      "created_at": "2024-03-20T21:02:49.071Z",
+      "updated_at": "2024-08-22T04:28:21.957Z"
+    },
+    {
+      "id": "924b0617-9271-4f1e-a33e-060a3974c1de",
+      "name": "Licensed Soft Pizza",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "891.00",
+      "stock": 53,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Curatio velociter cibus cupio solium acer acidus deleo caterva perferendis.\nQuisquam crepusculum utilis tutamen."
+        },
+        {
+          "question": "triduana ea comis",
+          "answer": "Delibero vespillo conventus delicate minus attero aiunt voco desipio victus. Cauda apud coaegresco speculum demoror adipisci aliqua pecto."
+        },
+        {
+          "question": "depereo civitas amiculum",
+          "answer": "Amo sopor sto delego minima."
+        }
+      ],
+      "created_at": "2024-05-01T10:21:45.150Z",
+      "updated_at": "2024-08-22T03:21:27.723Z"
+    },
+    {
+      "id": "b2de6242-bb22-41fe-afef-58a10e0e1b19",
+      "name": "Fantastic Frozen Chips",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "901.00",
+      "stock": 85,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Comprehendo taedium aer.\nSubstantia atavus utroque derideo ascisco."
+        },
+        {
+          "question": "crustulum delicate acidus crinis",
+          "answer": "Sapiente distinctio pecus centum capio rerum crudelis bos doloremque. Ter curis aetas textus amitto stella audio. Vitiosus ventito deprimo sollers."
+        },
+        {
+          "question": "substantia spes vicinus animus universe",
+          "answer": "Asperiores turbo vomer vicinus spiculum aliquid. Viscus statim sum labore concedo crinis vulticulus."
+        }
+      ],
+      "created_at": "2024-04-07T17:48:06.491Z",
+      "updated_at": "2024-08-22T04:14:58.450Z"
+    },
+    {
+      "id": "f0dd0249-e526-4e36-a346-bef06327bacc",
+      "name": "Refined Steel Towels",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "587.00",
+      "stock": 88,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Uxor valetudo templum.\nUltra amplus tripudio artificiose crux recusandae consectetur tenetur."
+        },
+        {
+          "question": "desparatus pax concedo",
+          "answer": "Possimus verumtamen appositus ventito aeternus dolor tepesco admoveo cohaero deinde. Arbustum sulum ceno. Suffoco dolores itaque copiose."
+        },
+        {
+          "question": "solutio abundans curriculum",
+          "answer": "Careo suffragium consequatur curtus. Asperiores celebrer depromo animadverto theologus ipsam."
+        }
+      ],
+      "created_at": "2023-11-19T19:28:10.576Z",
+      "updated_at": "2024-08-21T22:08:02.763Z"
+    },
+    {
+      "id": "290b8f62-2dc6-47a9-87c2-38854aa32617",
+      "name": "Small Cotton Bike",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "854.00",
+      "stock": 80,
+      "category_id": 97,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ubi acsi thorax.\nPauper nulla appono cognomen pax ceno celebrer attonbitus suscipio.\nPorro nostrum itaque asper curvo et tamisium cupressus coniecto.\nBeatus certus incidunt defero arceo."
+        },
+        {
+          "question": "arx tracto sortitus",
+          "answer": "Facere demulceo attollo vitae aureus curo. Tricesimus summisse arma subito curo vesica villa amplitudo vilitas."
+        },
+        {
+          "question": "caelum sustineo cilicium",
+          "answer": "Addo capto casus cui suffoco vis vociferor suadeo. Vinitor aedificium demoror contabesco caterva unus viscus admoveo consectetur vulgus. Arguo adhuc abduco cavus."
+        }
+      ],
+      "created_at": "2023-09-26T19:39:58.627Z",
+      "updated_at": "2024-08-22T00:45:01.769Z"
+    },
+    {
+      "id": "92f78ef6-ee09-4797-b95d-fb0bc680b1ab",
+      "name": "Practical Soft Chips",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "157.00",
+      "stock": 6,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cuius averto terra.\nTheatrum ipsa laboriosam aequitas adsuesco quibusdam urbs deficio sum tantum.\nAdmoveo volubilis adimpleo corrupti.\nCumque suspendo correptius amita conicio alias totus tonsor."
+        },
+        {
+          "question": "vomito aliquam crebro laborum congregatio",
+          "answer": "Ratione aeternus supellex crux templum bene. Denuncio tergiversatio vulpes rerum deinde tunc dens voluptatibus amet creator. Territo copia delinquo."
+        },
+        {
+          "question": "tredecim administratio tametsi demum triumphus",
+          "answer": "Demo conitor deleniti. Depopulo soluta coadunatio corona peior temporibus tui tot."
+        }
+      ],
+      "created_at": "2024-03-16T07:11:10.776Z",
+      "updated_at": "2024-08-21T20:16:53.846Z"
+    },
+    {
+      "id": "796016e7-2ba9-4a2e-aefc-b33bf2e35974",
+      "name": "Electronic Fresh Towels",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "776.00",
+      "stock": 49,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cupio carpo commodo accedo vitae suscipit stabilis.\nAdnuo comes cometes complectus vulariter iste cultellus callide.\nAdiuvo aestas balbus.\nEum teres ut stabilis considero."
+        },
+        {
+          "question": "amissio callide asperiores aliquid",
+          "answer": "Conscendo ulterius tero."
+        },
+        {
+          "question": "delinquo saepe deduco quia",
+          "answer": "Dens repellat textor angustus creta bos apto armarium. Cursus audio voluptas vallum addo."
+        }
+      ],
+      "created_at": "2024-02-18T18:33:21.838Z",
+      "updated_at": "2024-08-22T00:35:30.860Z"
+    },
+    {
+      "id": "c9e89a74-8e29-486e-b46d-5baeaf33a003",
+      "name": "Rustic Metal Pizza",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "74.00",
+      "stock": 91,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Quis astrum adnuo verumtamen coepi.\nVado audio absens quaerat."
+        },
+        {
+          "question": "canonicus minus cribro amoveo",
+          "answer": "Commodo auditor coerceo commemoro pariatur nemo depereo temporibus sordeo. Contego sto sonitus denuncio arbitro. Tyrannus decor arma adopto animus vobis sub succedo possimus aptus."
+        },
+        {
+          "question": "speciosus velit amissio certe",
+          "answer": "Clementia tum suscipio trucido. Tactus asporto tamisium molestiae tracto sustineo in uberrime iusto."
+        }
+      ],
+      "created_at": "2024-08-17T22:14:15.423Z",
+      "updated_at": "2024-08-21T16:50:50.477Z"
+    },
+    {
+      "id": "136fb895-c90c-4d23-85a9-fcab0dfa9e5b",
+      "name": "Bespoke Cotton Shirt",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "284.00",
+      "stock": 95,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Audax tero utpote tumultus.\nOfficiis alii solus atque suffoco.\nAudeo adeo trepide demergo."
+        },
+        {
+          "question": "molestiae clibanus territo",
+          "answer": "Urbanus quod voluntarius esse tertius tot absque antepono aranea teneo. Verbum defessus desolo conventus suggero vulgo anser terra contigo conatus. Praesentium torrens video angulus demum tres natus caterva."
+        },
+        {
+          "question": "caput conturbo apto comitatus cuppedia",
+          "answer": "Tergiversatio vacuus apud defungo cruentus super cotidie vergo uxor depulso."
+        }
+      ],
+      "created_at": "2023-09-26T02:14:43.056Z",
+      "updated_at": "2024-08-22T04:26:33.928Z"
+    },
+    {
+      "id": "77814ec0-15bd-4645-89cb-0e7412b65916",
+      "name": "Bespoke Wooden Cheese",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "204.00",
+      "stock": 80,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cogito aut ea amitto maxime.\nThesaurus denuo facere verbum vinitor tero basium eveniet.\nCinis tantum amoveo vita cetera tremo abundans acervus commodo.\nVerto claudeo bestia ex umbra comptus aperiam damnatio."
+        },
+        {
+          "question": "arcus trado sollers",
+          "answer": "Abbas cibus correptius accendo culpa tardus."
+        },
+        {
+          "question": "demonstro ut apto tantillus credo",
+          "answer": "Tantum barba audacia baiulus."
+        }
+      ],
+      "created_at": "2024-01-25T16:04:29.252Z",
+      "updated_at": "2024-08-22T03:44:25.767Z"
+    },
+    {
+      "id": "122fcec0-2366-4ecd-a539-331f8c057474",
+      "name": "Handmade Granite Shirt",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "517.00",
+      "stock": 77,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Defungo venustas cibus.\nAro pel advoco vitiosus ad.\nAdhuc speculum supplanto vallum ascit comedo excepturi suppono tabella.\nAudio bene decipio administratio."
+        },
+        {
+          "question": "cognomen cena calculus",
+          "answer": "Harum caelum quae aperte pax uberrime defendo carcer quis adulescens. Capillus cenaculum maiores."
+        },
+        {
+          "question": "natus molestias fuga volva talus",
+          "answer": "Vulnus quidem necessitatibus tremo cubo. Venustas accendo universe veritatis succedo suppono amplitudo."
+        }
+      ],
+      "created_at": "2024-05-01T14:30:40.956Z",
+      "updated_at": "2024-08-22T03:32:34.456Z"
+    },
+    {
+      "id": "b048c4db-67f5-4407-90e7-80c3cd32f618",
+      "name": "Electronic Soft Soap",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "487.00",
+      "stock": 89,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Patior laborum sublime acsi admiratio.\nEt sunt auxilium ea circumvenio truculenter ante eaque campana virga.\nCaterva depereo sumptus absum."
+        },
+        {
+          "question": "apostolus subnecto deorsum accedo ciminatio",
+          "answer": "Baiulus creo hic sperno curis dolores viscus conatus. Cursus stabilis ciminatio victus triumphus omnis angelus cohibeo communis vestrum. Bene explicabo adficio desidero tandem aranea cuius et alter ancilla."
+        },
+        {
+          "question": "ademptio vacuus dedecor",
+          "answer": "Temeritas vociferor adamo bene coadunatio ciminatio arma cubo. Conspergo communis speciosus ultio terra bestia. Incidunt iste peccatus verumtamen atavus currus aggero angulus impedit."
+        }
+      ],
+      "created_at": "2024-05-02T18:41:57.561Z",
+      "updated_at": "2024-08-21T22:00:34.599Z"
+    },
+    {
+      "id": "a7ca3f47-f341-4928-8b0b-d59239fcadbb",
+      "name": "Rustic Cotton Pizza",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "490.00",
+      "stock": 31,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Veritatis uberrime volutabrum sodalitas bellum xiphias colligo concido stabilis.\nAdulescens sum cilicium.\nVulgaris ventus amoveo cunabula blandior ater vorax conspergo."
+        },
+        {
+          "question": "caelum quisquam auctus spargo voluptate",
+          "answer": "Capitulus corona adfero assentator tres. Tempore utilis varietas addo vomica. Suadeo unde capillus adsum carpo comprehendo sursum terror soluta enim."
+        },
+        {
+          "question": "aspicio corrupti crinis",
+          "answer": "Vulticulus termes pectus versus strues esse depopulo arbustum."
+        }
+      ],
+      "created_at": "2024-06-10T21:42:57.597Z",
+      "updated_at": "2024-08-22T03:03:18.689Z"
+    },
+    {
+      "id": "fb9ddfe8-a0b5-4dfd-9af7-7919b4f7ff53",
+      "name": "Unbranded Bronze Towels",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "188.00",
+      "stock": 60,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Timor conor ars illum sopor bellicus aufero brevis velociter.\nAdopto damnatio bardus cena vos est.\nVoluptatum pecus ustulo velociter villa candidus coerceo vulnero calco cupiditate."
+        },
+        {
+          "question": "tenax verumtamen cibus asper rem",
+          "answer": "Universe aestus pauper demonstro. Certe venustas voluptates conatus distinctio placeat crastinus expedita. Quod aspicio hic tactus bibo defero strenuus cariosus corrupti."
+        },
+        {
+          "question": "dolorum amicitia ara",
+          "answer": "Degusto statim arto decumbo atrox chirographum abduco. Ultio cariosus voro vigilo teres atrox demum absens fuga. Caute ambitus tergiversatio paens cura desipio."
+        }
+      ],
+      "created_at": "2024-02-14T12:29:51.275Z",
+      "updated_at": "2024-08-21T23:08:08.589Z"
+    },
+    {
+      "id": "0d1e429c-787a-4d7d-a620-9ce554d93cbe",
+      "name": "Tasty Bronze Mouse",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "495.00",
+      "stock": 87,
+      "category_id": 92,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Demergo bos tres summopere.\nIncidunt tubineus modi charisma coerceo tero officia umbra quas vilis.\nVereor ullam pax."
+        },
+        {
+          "question": "consequuntur reprehenderit attero",
+          "answer": "Chirographum earum validus adfectus. Commodi amissio volup quae deserunt benigne audax."
+        },
+        {
+          "question": "cognomen culpo aut provident suscipit",
+          "answer": "Turba ancilla facilis supplanto."
+        }
+      ],
+      "created_at": "2024-07-28T00:35:39.613Z",
+      "updated_at": "2024-08-22T07:03:53.792Z"
+    },
+    {
+      "id": "19939824-ec40-4a1c-8e44-404644568bdb",
+      "name": "Electronic Cotton Gloves",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "972.00",
+      "stock": 83,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Curriculum arcus vulnero.\nSed torqueo totus calco toties callide tabula textus abstergo ipsum.\nVehemens atrox tripudio."
+        },
+        {
+          "question": "acquiro vulnus verecundia error",
+          "answer": "Civis balbus addo suus ad velum sol cernuus trado trucido. Turbo viriliter vorago."
+        },
+        {
+          "question": "infit suppellex acervus ceno",
+          "answer": "Vis turpis condico officia. Demoror contego tepidus agnosco."
+        }
+      ],
+      "created_at": "2024-07-07T01:12:56.905Z",
+      "updated_at": "2024-08-22T08:21:32.565Z"
+    },
+    {
+      "id": "8afe2f4c-0819-4eae-9e4f-124733b96f03",
+      "name": "Electronic Steel Hat",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "144.00",
+      "stock": 25,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Clementia ab officia causa.\nClibanus confido vallum tum vindico.\nClarus sublime turbo laudantium.\nAddo incidunt tres sursum apud stabilis."
+        },
+        {
+          "question": "contra tristis benigne commemoro",
+          "answer": "Cum virga corona aeternus solium utor."
+        },
+        {
+          "question": "sui perferendis omnis",
+          "answer": "Unde odit claro sumptus."
+        }
+      ],
+      "created_at": "2024-01-31T01:26:35.023Z",
+      "updated_at": "2024-08-22T07:33:23.815Z"
+    },
+    {
+      "id": "21f88f01-25ef-4730-b408-eaed41e60edd",
+      "name": "Recycled Metal Computer",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "698.00",
+      "stock": 53,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Pecus tredecim turbo articulus talis.\nCondico volup concido.\nConitor trans verto.\nCuro acceptus atrocitas dolorum utrimque perferendis abscido thymum tepesco truculenter."
+        },
+        {
+          "question": "animi doloribus verus cohibeo",
+          "answer": "Subiungo arceo depereo comparo. Aspernatur subito placeat aranea. Attero credo cresco termes tener talus supra adipiscor."
+        },
+        {
+          "question": "atavus consequatur cogito",
+          "answer": "Caput adstringo vivo."
+        }
+      ],
+      "created_at": "2024-03-13T17:33:53.564Z",
+      "updated_at": "2024-08-21T11:32:53.798Z"
+    },
+    {
+      "id": "f48d5d87-d217-4f01-a78c-3c96a9a53ea0",
+      "name": "Recycled Plastic Shirt",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "495.00",
+      "stock": 83,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Basium adeo turba amet porro strenuus.\nVigilo in vespillo votum ullam addo audacia nisi tricesimus."
+        },
+        {
+          "question": "surculus utilis pariatur suadeo",
+          "answer": "Dapifer collum impedit vorax decor tergo tertius chirographum. Magnam tempore suppellex accendo tot cumque advoco. Considero expedita doloribus currus cupiditas cotidie cribro tergeo tepidus trucido."
+        },
+        {
+          "question": "patruus aureus ars",
+          "answer": "Dolorem sustineo cui adipisci. Usitas undique confugo. Tenus desparatus universe ex corporis casso modi brevis."
+        }
+      ],
+      "created_at": "2023-11-26T18:09:19.985Z",
+      "updated_at": "2024-08-21T18:58:39.564Z"
+    },
+    {
+      "id": "f173cf87-98cf-4ab6-8e38-8404f8b67eca",
+      "name": "Incredible Cotton Pants",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "267.00",
+      "stock": 30,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aspicio paulatim casso cervus.\nDefessus vicinus suspendo.\nPerspiciatis advenio necessitatibus deduco aeger civis."
+        },
+        {
+          "question": "succedo soleo crastinus",
+          "answer": "Totam cuppedia crepusculum. Mollitia tremo censura repellat corrupti voveo coniecto voluptatum. Similique amplus caput natus vitae."
+        },
+        {
+          "question": "commodo autus credo",
+          "answer": "Angelus desipio volubilis tergeo cupio bis dolorum antepono custodia. Occaecati fugiat calco vestrum sto triumphus optio dedecor demulceo audentia."
+        }
+      ],
+      "created_at": "2023-12-31T08:31:21.795Z",
+      "updated_at": "2024-08-21T10:27:07.041Z"
+    },
+    {
+      "id": "986c15d9-4c81-414b-a8f4-5b8dc0238cce",
+      "name": "Fantastic Cotton Table",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "834.00",
+      "stock": 14,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Vester error aestus at spiculum illum officia.\nSynagoga socius defero verbera reiciendis caelestis temperantia nobis assentator."
+        },
+        {
+          "question": "acer amplitudo calcar itaque sollicito",
+          "answer": "Harum tam saepe vulgo confido consequatur defendo cauda curo. Subnecto casso admiratio vaco enim reprehenderit. Alias animi speciosus minus depono temptatio verbera."
+        },
+        {
+          "question": "celebrer victus vicinus attero repellat",
+          "answer": "Alter confero caelestis uredo solutio arcesso bene alienus succurro. Arx sordeo alioqui timidus tenetur. Tenus pecto paulatim bonus facere ocer cilicium."
+        }
+      ],
+      "created_at": "2024-02-13T05:25:03.262Z",
+      "updated_at": "2024-08-22T00:06:07.739Z"
+    },
+    {
+      "id": "fc2f40c5-071c-416c-b87b-79d724e32fce",
+      "name": "Refined Wooden Car",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "755.00",
+      "stock": 87,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Comprehendo cubitum ad amita theca.\nIpsa crinis inflammatio suasoria curis adiuvo speculum.\nTemeritas viriliter usitas vetus."
+        },
+        {
+          "question": "denuo bos crastinus pecus defendo",
+          "answer": "Illo audax cui nemo depulso occaecati ratione accusamus ait. Est aveho ater."
+        },
+        {
+          "question": "abscido valde tempora",
+          "answer": "Basium arto curatio harum. Teres victus amaritudo paulatim absconditus alias aeneus torqueo caecus officia. Eaque nihil asporto amor creo caute."
+        }
+      ],
+      "created_at": "2023-09-06T10:27:16.362Z",
+      "updated_at": "2024-08-22T07:33:15.588Z"
+    },
+    {
+      "id": "2ce37f93-991f-4bbc-82ad-bc599135dbdb",
+      "name": "Generic Steel Gloves",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "796.00",
+      "stock": 44,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aspicio taceo crux tricesimus cavus totam.\nAbutor dolorum minus cedo."
+        },
+        {
+          "question": "bellum spoliatio aduro conforto",
+          "answer": "Calco voco vinculum tamisium adstringo despecto. Teneo tandem contra aptus cursim agnitio."
+        },
+        {
+          "question": "cernuus condico tui aeternus nisi",
+          "answer": "Despecto vociferor tempus antiquus armarium denego crebro."
+        }
+      ],
+      "created_at": "2024-03-12T15:16:03.640Z",
+      "updated_at": "2024-08-22T07:30:43.725Z"
+    },
+    {
+      "id": "710ba0a4-b1e8-44bc-847c-48a0e83e5902",
+      "name": "Electronic Fresh Soap",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "54.00",
+      "stock": 49,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Facere optio aperte colligo inflammatio deputo urbs absens vestrum hic.\nViscus aptus audeo crudelis tametsi.\nAufero deinde calculus capitulus comis valeo aeneus alienus.\nVeritas comis cibo adamo calamitas vereor comis acies."
+        },
+        {
+          "question": "canonicus stips conscendo alienus",
+          "answer": "Comburo iure aut tristis creator pariatur sol conscendo. Sponte aegre aetas surgo adiuvo ullam contigo."
+        },
+        {
+          "question": "hic venio animus",
+          "answer": "Possimus triumphus tardus acsi circumvenio umquam laborum circumvenio abeo."
+        }
+      ],
+      "created_at": "2024-06-09T02:54:34.961Z",
+      "updated_at": "2024-08-21T15:48:11.335Z"
+    },
+    {
+      "id": "9f1f30c5-db87-47bc-94bf-f8475427264d",
+      "name": "Oriental Rubber Chair",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "619.00",
+      "stock": 63,
+      "category_id": 2,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ambitus vae auctus solum amiculum confido vergo xiphias degero crur.\nCuro vobis torrens provident cetera taedium coniuratio.\nSuccurro praesentium cibus denego architecto comminor."
+        },
+        {
+          "question": "corrupti summisse repudiandae",
+          "answer": "Conitor aperte tonsor articulus."
+        },
+        {
+          "question": "decretum apparatus aedificium desparatus",
+          "answer": "Vinculum curatio cilicium similique adfero crustulum speciosus theologus aestivus. Eveniet temeritas viriliter titulus balbus bibo decumbo."
+        }
+      ],
+      "created_at": "2024-06-29T04:00:43.850Z",
+      "updated_at": "2024-08-22T02:03:43.092Z"
+    },
+    {
+      "id": "6cd32b22-b893-4f7b-9782-c060ff957407",
+      "name": "Tasty Wooden Keyboard",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "117.00",
+      "stock": 82,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Tolero brevis vita sulum tabella occaecati tardus celer vix.\nBardus comptus claustrum tonsor iusto quia volutabrum confugo.\nIllo sperno deleo pel coadunatio commodi."
+        },
+        {
+          "question": "ademptio vicissitudo pariatur",
+          "answer": "Dolores nam aestus cur triumphus. Tametsi tumultus deorsum bibo ancilla in excepturi defessus conatus."
+        },
+        {
+          "question": "tum defetiscor vesica patrocinor",
+          "answer": "Calculus summopere verbera avarus adulescens ea cursus. Suppono vito blanditiis."
+        }
+      ],
+      "created_at": "2024-02-17T23:50:59.275Z",
+      "updated_at": "2024-08-21T10:20:55.555Z"
+    },
+    {
+      "id": "e00c2924-a7e6-4891-800e-2b62b46fc193",
+      "name": "Electronic Cotton Ball",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "763.00",
+      "stock": 43,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Votum utpote summa aranea.\nSpero solum decumbo recusandae strues.\nTui caries studio suus strenuus iste celer tollo vociferor."
+        },
+        {
+          "question": "temptatio soleo conicio",
+          "answer": "Suasoria audeo vitiosus placeat video vesper bis bestia sursum. Cimentarius comparo aer ars corrumpo. Administratio peior ocer valde amicitia vulariter tredecim."
+        },
+        {
+          "question": "quos cuius caste libero officiis",
+          "answer": "Curo conqueror depereo degusto accusamus crudelis charisma. Sum suadeo tepidus. Numquam aliquid volaticus argumentum aggero."
+        }
+      ],
+      "created_at": "2024-05-14T06:38:14.844Z",
+      "updated_at": "2024-08-21T19:08:12.666Z"
+    },
+    {
+      "id": "8f6a8371-00d9-48b3-aef1-be2d8f6bb659",
+      "name": "Awesome Granite Shirt",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "338.00",
+      "stock": 95,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aeger adfero defendo.\nIpsum degenero caste sed ulterius aspernatur nostrum universe cura.\nAsporto sponte creber vergo.\nSperno ustulo patria urbanus."
+        },
+        {
+          "question": "depulso demens placeat",
+          "answer": "Qui viridis optio aptus audentia aspicio. Vilitas derelinquo accedo amplus advoco."
+        },
+        {
+          "question": "alo ipsam territo",
+          "answer": "Universe dedico tandem cetera agnosco vester spectaculum suffoco aperte. Rerum canis collum umbra adulatio abduco aer solutio admoveo quaerat. Cornu caecus valde quod vulnero turpis defero vinum."
+        }
+      ],
+      "created_at": "2024-02-06T18:40:09.813Z",
+      "updated_at": "2024-08-21T20:29:16.261Z"
+    },
+    {
+      "id": "a92c1694-7673-4998-b2d2-43efa8a2ab81",
+      "name": "Handcrafted Soft Shoes",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "362.00",
+      "stock": 100,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Desipio acquiro convoco crastinus aliqua molestiae deprimo sub.\nCavus aegre color.\nSomnus ater torrens speciosus patria amita uberrime aetas atrocitas.\nAedificium aranea universe tollo vir communis illo laudantium claro theca."
+        },
+        {
+          "question": "certe cupiditas theologus contego",
+          "answer": "Baiulus vulariter culpo adiuvo curtus."
+        },
+        {
+          "question": "adsum vespillo ancilla vinitor",
+          "answer": "Usque contigo derideo causa usque casus viriliter cibo censura canto. Arca vitiosus tabesco caecus. Vomer cognatus cultellus vilitas ancilla atrox curis."
+        }
+      ],
+      "created_at": "2023-08-28T22:19:29.623Z",
+      "updated_at": "2024-08-21T13:36:34.205Z"
+    },
+    {
+      "id": "2f1e51de-3b99-47f2-bb93-017915a0a8a7",
+      "name": "Licensed Fresh Keyboard",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "535.00",
+      "stock": 47,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Sed demum addo defetiscor officia.\nUllus tamisium fugit auditor cupio asporto confero attonbitus.\nQuia sono nulla tantillus acervus."
+        },
+        {
+          "question": "anser torrens suadeo",
+          "answer": "Nemo stips inventore consequatur cibus aspicio quasi tripudio civitas cervus. Coniecto depraedor cotidie appello arceo alius cohibeo. Tolero bellicus carpo amaritudo sperno fugit."
+        },
+        {
+          "question": "abbas carmen desidero aer",
+          "answer": "Quas dolorum facere suggero comminor. Cavus deduco magni nam amissio suffoco. Alo decet vulnus caelum."
+        }
+      ],
+      "created_at": "2024-04-29T05:59:08.136Z",
+      "updated_at": "2024-08-22T04:17:52.502Z"
+    },
+    {
+      "id": "1f2398fb-0402-4daf-ad22-5ffb1e1187c7",
+      "name": "Bespoke Granite Keyboard",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "627.00",
+      "stock": 60,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Alveus architecto vir iste sit similique.\nUmerus admitto perspiciatis tertius communis arca carpo usitas degusto.\nCoerceo conturbo demo vestrum adeptio volup necessitatibus aliquid occaecati."
+        },
+        {
+          "question": "distinctio votum delinquo vitiosus ut",
+          "answer": "Victoria vigor paulatim vivo depromo subvenio absconditus. Clibanus acer deficio tantum thymum sustineo."
+        },
+        {
+          "question": "contabesco villa odit",
+          "answer": "Amissio antea depromo annus minima stips concido. Tracto ocer spargo."
+        }
+      ],
+      "created_at": "2023-11-26T09:03:13.349Z",
+      "updated_at": "2024-08-21T18:56:31.094Z"
+    },
+    {
+      "id": "b82146e8-03fe-403a-bd5e-08a45105885c",
+      "name": "Sleek Fresh Gloves",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "453.00",
+      "stock": 70,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ait blanditiis ars terra usitas quia sto tracto aeneus cunctatio.\nArto quis tabernus appositus umerus acies advenio adsuesco coerceo.\nVespillo atrox rem natus.\nPecco agnitio aureus tricesimus spoliatio aliquid."
+        },
+        {
+          "question": "venia desipio tero adeo",
+          "answer": "Commodo vitiosus suspendo est conatus quae cupio valens conatus. Dolores utor animadverto voluptatibus sollicito corrupti."
+        },
+        {
+          "question": "curo copia astrum provident celer",
+          "answer": "Fugit thorax tabesco sum bene arcesso deserunt conduco caute ocer. Bibo quo cras sufficio auxilium terebro tertius depraedor. Certe super aranea."
+        }
+      ],
+      "created_at": "2023-09-15T06:40:50.123Z",
+      "updated_at": "2024-08-22T07:34:51.633Z"
+    },
+    {
+      "id": "962adf26-4ed2-4e7a-8655-aab025afc0b7",
+      "name": "Awesome Metal Pizza",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "991.00",
+      "stock": 55,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Amita tamen stabilis spectaculum facilis supra voro tego.\nArma cilicium comitatus tot.\nCharisma tantum tripudio stella ambitus quos colo rem conforto."
+        },
+        {
+          "question": "infit careo alo quae ago",
+          "answer": "Aliquid succurro tergo verto nisi voluptatem cupressus. Demens nobis surgo praesentium cubicularis titulus confero adversus accommodo. Praesentium umquam accusamus atrox."
+        },
+        {
+          "question": "fugiat consequuntur avaritia porro",
+          "answer": "Theatrum tonsor tego. Dolorum amplitudo quos compello."
+        }
+      ],
+      "created_at": "2024-06-17T10:02:12.499Z",
+      "updated_at": "2024-08-21T16:16:23.304Z"
+    },
+    {
+      "id": "a7e382cd-ce2b-49b7-8029-d0fe62c16cad",
+      "name": "Small Cotton Chips",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "536.00",
+      "stock": 23,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Bene commodo amissio theologus tenetur incidunt suffoco depulso aliqua thesaurus.\nTaceo thema quos taceo audax usitas tenuis acer."
+        },
+        {
+          "question": "communis sit caries",
+          "answer": "Earum thalassinus eos sunt antea. Terminatio sumptus calcar velociter curto censura sub. Coma cupressus adsuesco."
+        },
+        {
+          "question": "tergiversatio thymum veniam aliqua",
+          "answer": "Cuius concido doloremque sit culpo. Somniculosus aequus suasoria arx civis trado absens. Caterva talio accusantium conspergo."
+        }
+      ],
+      "created_at": "2023-11-25T22:17:00.091Z",
+      "updated_at": "2024-08-22T00:55:53.479Z"
+    },
+    {
+      "id": "ab9b5017-40ec-48e1-9925-850a2df19709",
+      "name": "Oriental Plastic Chicken",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "172.00",
+      "stock": 7,
+      "category_id": 93,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Basium calco suffoco voluptatibus ademptio cunae.\nAngelus clibanus abbas terebro architecto aestus credo aliquid auditor.\nDefleo tantillus copiose voluptas aufero teneo comminor id eos."
+        },
+        {
+          "question": "attonbitus consectetur ancilla vallum",
+          "answer": "Perspiciatis tantum curtus thymbra. Quos coruscus claudeo bellum deporto bellicus. Aegre solium amoveo."
+        },
+        {
+          "question": "umquam deduco angulus",
+          "answer": "Comis cubitum theatrum volutabrum statim venustas suppono coaegresco. Bibo viscus verecundia desidero vesper adopto cetera succedo aestus."
+        }
+      ],
+      "created_at": "2024-07-28T22:35:21.209Z",
+      "updated_at": "2024-08-21T15:55:33.341Z"
+    },
+    {
+      "id": "2ec37538-d908-4b4c-bc66-fa533040018a",
+      "name": "Awesome Cotton Hat",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "456.00",
+      "stock": 20,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Tabella audeo adsidue varietas tamen.\nVel contra quaerat cenaculum color decretum canis."
+        },
+        {
+          "question": "adamo cometes deleniti",
+          "answer": "Testimonium defungo adulatio aegrus circumvenio utor tricesimus subnecto eligendi uberrime."
+        },
+        {
+          "question": "porro super admoneo vulgaris",
+          "answer": "Accedo subito asper doloremque summa conor officiis creber. Tabernus callide sponte verto aedificium ambulo."
+        }
+      ],
+      "created_at": "2024-01-08T10:32:35.358Z",
+      "updated_at": "2024-08-22T05:14:38.665Z"
+    },
+    {
+      "id": "48713914-0082-43bb-a6d7-b58e069fd0e2",
+      "name": "Electronic Soft Bacon",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "826.00",
+      "stock": 28,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ad optio solitudo adipiscor cruentus demergo strenuus theologus tutis.\nTaedium adhaero expedita adversus decet apostolus."
+        },
+        {
+          "question": "causa curtus amplitudo summa aureus",
+          "answer": "Votum amicitia cotidie iure molestias qui audentia accusamus similique dolorum."
+        },
+        {
+          "question": "vergo tendo claudeo deleniti",
+          "answer": "Tergeo statua allatus officiis suus voco ducimus cauda. Acervus abscido denego eum. Aduro stips vero."
+        }
+      ],
+      "created_at": "2024-07-16T21:02:22.700Z",
+      "updated_at": "2024-08-21T10:53:13.003Z"
+    },
+    {
+      "id": "903bad4c-f5ba-4d1c-adb7-af49472c6d15",
+      "name": "Fantastic Frozen Towels",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "570.00",
+      "stock": 43,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Appono somnus cursim quisquam ait blanditiis.\nApostolus compono cultellus ustulo vomica optio bellum nemo arcus.\nOdio animadverto aggredior carcer ter itaque.\nSuccedo copiose alius suspendo damno acervus decor infit."
+        },
+        {
+          "question": "chirographum quod aro carpo adipisci",
+          "answer": "Collum fuga turpis. Ambulo occaecati amaritudo capitulus subiungo causa deludo caries censura. Comedo copiose non triduana."
+        },
+        {
+          "question": "caelum perferendis tolero sui",
+          "answer": "Articulus ars delicate thesis volo. Decipio vigor vox uxor colligo."
+        }
+      ],
+      "created_at": "2023-11-23T21:40:22.247Z",
+      "updated_at": "2024-08-21T13:45:48.328Z"
+    },
+    {
+      "id": "2a0e7bb9-cdaa-42ad-a673-73890596e9d3",
+      "name": "Handcrafted Rubber Shirt",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "665.00",
+      "stock": 98,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Nobis molestias tumultus conculco vulgo cura trepide maxime.\nCorrigo vinum comminor vorax."
+        },
+        {
+          "question": "adhuc admoveo consuasor ad optio",
+          "answer": "Apparatus cado aiunt. Apto minima averto iusto templum."
+        },
+        {
+          "question": "vir cohibeo vorax armarium carbo",
+          "answer": "Cresco combibo amplexus. Arbitro tepidus consequuntur admiratio tepesco. Speciosus vomica cometes."
+        }
+      ],
+      "created_at": "2024-08-03T00:58:41.664Z",
+      "updated_at": "2024-08-21T17:32:35.628Z"
+    },
+    {
+      "id": "16301275-af7d-4c87-b7d7-eb11f62a0c8b",
+      "name": "Small Steel Pants",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "57.00",
+      "stock": 4,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Sumptus succedo terga creo adduco damnatio apto.\nClam quas quia vel.\nDemulceo celebrer acer nisi ter vulgus spoliatio casso bis."
+        },
+        {
+          "question": "debilito viduo velut voluptates derelinquo",
+          "answer": "Acer certus demitto adsuesco exercitationem virgo decerno attollo ea. Provident decipio curia surgo corona architecto quod sequi concido error."
+        },
+        {
+          "question": "capto sono confero",
+          "answer": "Truculenter auctor consequuntur demens attonbitus cruciamentum cresco totam adsum. Defleo anser aspicio ipsum teneo."
+        }
+      ],
+      "created_at": "2024-05-01T01:59:37.061Z",
+      "updated_at": "2024-08-21T16:48:34.394Z"
+    },
+    {
+      "id": "afd68e8a-08f0-4c6c-983e-a5015bfde74c",
+      "name": "Licensed Bronze Gloves",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "894.00",
+      "stock": 69,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Pauci pauci ea ancilla cubicularis ustilo deludo.\nOmnis sed unde cultura umbra."
+        },
+        {
+          "question": "color sunt cernuus eos",
+          "answer": "Cognatus aurum inflammatio recusandae vitium cattus vapulus defaeco decipio porro."
+        },
+        {
+          "question": "volo vivo correptius aliqua delego",
+          "answer": "Uberrime ab strenuus terga trucido defero verus tepesco."
+        }
+      ],
+      "created_at": "2024-07-07T14:31:20.417Z",
+      "updated_at": "2024-08-22T07:23:23.441Z"
+    },
+    {
+      "id": "fe553cb3-4916-4b26-8cca-64e642535e9c",
+      "name": "Recycled Soft Pizza",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "664.00",
+      "stock": 20,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Ventosus aegre capitulus cui creator blandior.\nCenaculum ago crepusculum consectetur demoror dolore brevis caveo theatrum studio.\nVinum argentum tergo traho timor velociter taedium."
+        },
+        {
+          "question": "dolorum curiositas tenus denique",
+          "answer": "Amissio defluo supra aliquam ab uxor uxor pauper odit. Adopto arcus utor speculum. Somnus abstergo advenio altus aegrus."
+        },
+        {
+          "question": "vaco clibanus amoveo titulus",
+          "answer": "Vallum vos sapiente aperiam."
+        }
+      ],
+      "created_at": "2024-01-05T17:08:56.225Z",
+      "updated_at": "2024-08-21T19:56:35.168Z"
+    },
+    {
+      "id": "cd448c96-3e8b-48b5-a9b0-73d2e622e4fe",
+      "name": "Recycled Frozen Cheese",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "155.00",
+      "stock": 85,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Territo cruentus cupiditas tendo sulum natus averto.\nCanto antepono torrens."
+        },
+        {
+          "question": "volutabrum ambitus verbera",
+          "answer": "Undique nemo derelinquo vinum mollitia audeo ascisco. Atrox ambulo tredecim somniculosus aptus suscipit convoco."
+        },
+        {
+          "question": "casso sapiente porro vociferor",
+          "answer": "Demergo contra tricesimus vero vinculum veritatis vapulus ater desidero. Damnatio tibi verto adnuo balbus adsuesco tribuo. Attero advoco suadeo ceno contego turpis cogito contego."
+        }
+      ],
+      "created_at": "2024-03-13T14:49:24.773Z",
+      "updated_at": "2024-08-21T23:38:47.814Z"
+    },
+    {
+      "id": "e8729091-29c9-4061-b5e3-fc886449dd5c",
+      "name": "Recycled Concrete Ball",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "998.00",
+      "stock": 91,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Despecto nemo aggero.\nVoluntarius baiulus aegrotatio quos."
+        },
+        {
+          "question": "tristis textus tonsor",
+          "answer": "Deludo defluo tendo urbanus cavus voluptatibus asporto auctus. Sumptus condico creber."
+        },
+        {
+          "question": "cum pauper depono sol",
+          "answer": "Cauda decipio argumentum aeternus voveo curiositas. Alveus cedo comparo custodia cornu iste argentum spiritus cum sustineo."
+        }
+      ],
+      "created_at": "2024-07-10T10:37:05.005Z",
+      "updated_at": "2024-08-21T22:10:40.575Z"
+    },
+    {
+      "id": "8fb406f1-5134-47d5-ab49-b5ec18790b93",
+      "name": "Rustic Fresh Fish",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "548.00",
+      "stock": 54,
+      "category_id": 30,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Numquam alius acsi quos animi.\nConcedo omnis bis avaritia cunabula urbs aliquam altus cognomen.\nVerus soleo teneo tenuis arto facere currus uterque praesentium acer."
+        },
+        {
+          "question": "conspergo trado caveo catena modi",
+          "answer": "Supra amissio adiuvo quo adipisci. Volo aqua laborum taceo sono crudelis videlicet conventus. Communis surgo voluptatum adamo qui paens agnosco sequi."
+        },
+        {
+          "question": "architecto adamo aequus stips veniam",
+          "answer": "Vero vulgus porro. Sunt conspergo debilito."
+        }
+      ],
+      "created_at": "2023-09-15T23:34:06.941Z",
+      "updated_at": "2024-08-21T14:56:51.073Z"
+    },
+    {
+      "id": "6132401d-669d-4db8-ad6c-1016daec115c",
+      "name": "Tasty Metal Car",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "395.00",
+      "stock": 42,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Templum voluptatem vel vociferor communis verto auditor patrocinor.\nAverto recusandae adduco tamdiu libero molestias denuncio comes coruscus.\nCurso tergeo angustus beatus bos.\nDebitis conicio auxilium alo."
+        },
+        {
+          "question": "tepesco comparo curtus verto",
+          "answer": "Vae undique itaque aequus spiculum."
+        },
+        {
+          "question": "compono spes bis",
+          "answer": "Validus canto alias spargo voluptatum depono cura. Admitto admoneo comitatus. Contabesco amor velociter averto ducimus spectaculum."
+        }
+      ],
+      "created_at": "2023-11-29T02:20:18.190Z",
+      "updated_at": "2024-08-21T15:15:27.425Z"
+    },
+    {
+      "id": "18f0f380-974c-415d-aa7b-1eedbbe0acbb",
+      "name": "Gorgeous Metal Salad",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "46.00",
+      "stock": 3,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Adipisci adsidue venio vita chirographum succurro.\nTego laudantium statua sursum decet.\nTripudio vulariter necessitatibus somnus recusandae.\nContabesco verus adeptio vinco apostolus desidero vorax."
+        },
+        {
+          "question": "una aranea cunctatio umbra super",
+          "answer": "Auditor virtus cetera vere terreo vinitor."
+        },
+        {
+          "question": "recusandae theca commodi territo",
+          "answer": "Terror aliquid alienus clarus."
+        }
+      ],
+      "created_at": "2024-06-10T01:44:43.082Z",
+      "updated_at": "2024-08-21T21:40:30.684Z"
+    },
+    {
+      "id": "9949c913-3be3-4a8b-8998-2e64416eaa7e",
+      "name": "Handcrafted Frozen Table",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "420.00",
+      "stock": 32,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cenaculum sono terga ultra crepusculum acceptus arbor adduco audacia.\nDeduco arbor arx amplus uredo thymum umquam adinventitias harum canto."
+        },
+        {
+          "question": "omnis terror cunabula",
+          "answer": "Complectus subito deprimo. Talis spiculum deinde conqueror contigo neque aedificium uxor volubilis. Cunae ambitus absens curia vado adhaero."
+        },
+        {
+          "question": "comedo alioqui curtus cerno",
+          "answer": "Ventus clarus tremo demitto alius. Tutis constans sum crastinus ventito clibanus decumbo sum."
+        }
+      ],
+      "created_at": "2024-07-12T20:28:18.119Z",
+      "updated_at": "2024-08-21T18:38:02.005Z"
+    },
+    {
+      "id": "62344011-9151-44e0-b216-299816112e23",
+      "name": "Generic Rubber Soap",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "249.00",
+      "stock": 30,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Adnuo toties tenetur absque voco absum antiquus.\nSub curvo patrocinor.\nVicinus caveo conforto venustas tres truculenter ambitus nemo."
+        },
+        {
+          "question": "vilis aeneus rem vinco adduco",
+          "answer": "Autem derelinquo dolore vomito valetudo. Toties vox atavus textus. Considero abutor cupressus ceno termes."
+        },
+        {
+          "question": "amitto beneficium clementia carmen",
+          "answer": "Suscipio tempora possimus amaritudo caecus aqua curtus stabilis uter. Confero acsi caveo rem cubitum crudelis sollers. Velociter strues avaritia desino cras magni."
+        }
+      ],
+      "created_at": "2024-02-15T13:49:14.668Z",
+      "updated_at": "2024-08-21T22:37:24.049Z"
+    },
+    {
+      "id": "1b9562d1-a7bb-4ea2-af73-25bddcd40329",
+      "name": "Electronic Bronze Towels",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "46.00",
+      "stock": 19,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Acidus uter sui calamitas adeo cimentarius terror clibanus.\nTabernus absens beatae verus ascit accommodo.\nVita at congregatio.\nOdit quos adaugeo tui virga utpote adflicto adsum armarium fuga."
+        },
+        {
+          "question": "tepidus pax currus",
+          "answer": "Cresco accusamus vero angelus. Chirographum acer celo aestas teneo vigor."
+        },
+        {
+          "question": "suppellex ager decimus",
+          "answer": "Spargo libero iure argumentum magnam voluptatibus adinventitias comburo."
+        }
+      ],
+      "created_at": "2024-03-28T18:06:10.092Z",
+      "updated_at": "2024-08-21T13:25:31.823Z"
+    },
+    {
+      "id": "34745d9c-c715-4778-9aa3-52e3893ca54c",
+      "name": "Modern Soft Cheese",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "63.00",
+      "stock": 20,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Despecto conatus admoveo aeneus curvo.\nAsper caelestis cras arx arx cubo terror.\nDegenero defleo natus.\nTergeo cunctatio ademptio vere corpus calamitas."
+        },
+        {
+          "question": "damno calco stillicidium tepesco correptius",
+          "answer": "Tum ipsam stabilis color umerus credo antepono. Coniecto deficio tamquam vorax acceptus adicio tum ventosus crepusculum. Accusamus solio credo caelum."
+        },
+        {
+          "question": "aperte venustas rerum adiuvo",
+          "answer": "Trucido tibi tactus acceptus video suffragium fugit universe textus. Color error conitor adinventitias."
+        }
+      ],
+      "created_at": "2024-05-06T15:32:33.504Z",
+      "updated_at": "2024-08-21T21:20:51.793Z"
+    },
+    {
+      "id": "73117023-044d-4646-bed2-aa27ff3720e0",
+      "name": "Fantastic Plastic Fish",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "193.00",
+      "stock": 3,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Volva blanditiis vestigium agnosco.\nDemonstro aspicio pax caute.\nCogito conatus acidus blanditiis cognatus decerno clementia attero acies.\nAssentator sulum adsuesco absorbeo damnatio."
+        },
+        {
+          "question": "aliquid solio provident custodia bene",
+          "answer": "Unus cursus subnecto stipes apud carbo. Vir cogo nihil coma."
+        },
+        {
+          "question": "absorbeo angelus caute crepusculum",
+          "answer": "Coruscus consequuntur vaco tabula terebro curvo. Viridis cunae sum arbor utilis tutamen talus chirographum dens sublime. Voluptates vomito accusamus pariatur sunt undique quam cometes."
+        }
+      ],
+      "created_at": "2023-09-20T09:43:32.861Z",
+      "updated_at": "2024-08-22T06:52:41.232Z"
+    },
+    {
+      "id": "804666ed-d98a-49b2-85de-2a55e843a6e2",
+      "name": "Sleek Bronze Chair",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "933.00",
+      "stock": 35,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Uberrime defendo desino adeptio arbustum arcus sponte vae.\nCredo reiciendis videlicet porro crebro adfectus ducimus.\nBos toties vivo.\nCavus deorsum summisse deprecator vinculum curtus tabesco iusto."
+        },
+        {
+          "question": "vito aut deserunt beatus",
+          "answer": "Coniuratio vergo verto animus deorsum."
+        },
+        {
+          "question": "demo tametsi vilicus votum",
+          "answer": "Victoria concedo textilis cupiditate agnosco virtus corpus ago verbera acies."
+        }
+      ],
+      "created_at": "2024-06-22T00:58:22.558Z",
+      "updated_at": "2024-08-22T07:23:41.686Z"
+    },
+    {
+      "id": "a80047cd-1903-4aa1-95a4-2a128ff87669",
+      "name": "Luxurious Bronze Keyboard",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "147.00",
+      "stock": 42,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Truculenter victus supellex adsidue ab ceno spiritus vivo.\nSollers claudeo solio decerno averto caecus certus spargo.\nCedo denique conturbo."
+        },
+        {
+          "question": "aeger claustrum valeo deinde",
+          "answer": "Thema aegrotatio stipes tredecim ciminatio arca cometes super tardus consequatur. Vinculum curtus adipisci."
+        },
+        {
+          "question": "voluptatem officia super reiciendis",
+          "answer": "Ipsam curo blanditiis velum. Quam vapulus calculus admitto patruus tempora uxor dens."
+        }
+      ],
+      "created_at": "2024-04-18T08:17:06.124Z",
+      "updated_at": "2024-08-21T11:02:27.900Z"
+    },
+    {
+      "id": "f06ed906-f7cb-47b5-9bf2-ddfdbf892ddf",
+      "name": "Bespoke Steel Bike",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "119.00",
+      "stock": 94,
+      "category_id": 87,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cur vigor valde crastinus quas cupiditate.\nAufero vaco audentia averto.\nQuaerat voco ceno sollers.\nTerra alius vilicus utor ratione vicinus audax abundans."
+        },
+        {
+          "question": "rem molestiae concedo deripio degenero",
+          "answer": "Damnatio comburo utrum conservo ustilo. Velit tabernus deputo aegrotatio talus victoria."
+        },
+        {
+          "question": "totam vulgaris veniam",
+          "answer": "Terminatio nisi abscido abduco vicissitudo spiculum suggero cultura. Recusandae basium perferendis vero thema arma. Error cresco maiores spectaculum derelinquo asporto illo arguo."
+        }
+      ],
+      "created_at": "2024-03-20T20:03:44.778Z",
+      "updated_at": "2024-08-21T22:41:01.508Z"
+    },
+    {
+      "id": "306f04ef-fd80-4aa1-9101-86cb7c42f675",
+      "name": "Small Fresh Tuna",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "956.00",
+      "stock": 83,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aveho ipsam voluptatibus suppono administratio.\nArgentum adversus aedificium atavus."
+        },
+        {
+          "question": "urbs porro tibi vesco dolorum",
+          "answer": "Maiores facilis pauci animi asperiores aequus sint."
+        },
+        {
+          "question": "assumenda decumbo culpo cras",
+          "answer": "Pariatur pecto ascit atrox. Demulceo laborum thymbra doloribus celebrer curvo cervus commemoro repudiandae."
+        }
+      ],
+      "created_at": "2024-01-13T12:27:39.958Z",
+      "updated_at": "2024-08-21T20:46:08.311Z"
+    },
+    {
+      "id": "f382c790-831e-4d02-955f-e509989de4b6",
+      "name": "Electronic Concrete Pants",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "751.00",
+      "stock": 84,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Aspicio vomica decipio asperiores.\nVindico voluptatibus acceptus adsuesco tantum accusantium trucido brevis talus valeo.\nConculco cultellus aspernatur."
+        },
+        {
+          "question": "suppono basium cuppedia colo conventus",
+          "answer": "Expedita synagoga cuius dolor blandior alioqui. Appono ulciscor amicitia aeternus suffragium expedita uredo venustas dignissimos valens. Thesis quia decipio deludo provident aranea annus assentator absorbeo."
+        },
+        {
+          "question": "vita agnitio avarus a",
+          "answer": "Tyrannus patior virtus ultio illum cervus amplitudo tondeo certe aut. Deripio texo perferendis agnitio thymum. Apto titulus doloribus acer sed aduro."
+        }
+      ],
+      "created_at": "2024-08-15T06:00:54.602Z",
+      "updated_at": "2024-08-22T02:19:55.620Z"
+    },
+    {
+      "id": "181a6a64-70d4-4680-9fe4-05cb6edf7c6a",
+      "name": "Handmade Fresh Shirt",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "854.00",
+      "stock": 30,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Crebro depereo cernuus tersus aurum patrocinor abutor cito acsi agnitio.\nDecor terra attero ante abduco reprehenderit exercitationem mollitia.\nCum celebrer curia admiratio.\nBos valetudo thalassinus ver versus sub quos demum sono."
+        },
+        {
+          "question": "adaugeo arguo summisse",
+          "answer": "Villa demonstro benigne tantum approbo admoneo voluptates crebro aspernatur."
+        },
+        {
+          "question": "acer vindico sono minus cubitum",
+          "answer": "Carus cavus auctor sufficio callide dolorum adnuo. Ulciscor conduco utilis utique placeat ait caput."
+        }
+      ],
+      "created_at": "2024-01-05T03:02:45.847Z",
+      "updated_at": "2024-08-22T06:43:00.104Z"
+    },
+    {
+      "id": "4998bd7a-9f7c-47e2-902e-628fdd29ea94",
+      "name": "Handcrafted Concrete Shoes",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "946.00",
+      "stock": 99,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Adsum tero atrocitas quisquam cognatus.\nSolutio teneo denego viduo adstringo sum correptius.\nThema centum tabula vicissitudo sublime.\nQuos speculum adflicto atavus."
+        },
+        {
+          "question": "sol amoveo totam statua antiquus",
+          "answer": "Venustas deorsum thesaurus armarium cursim textus triumphus adsum solutio quis. Absum veniam verto armarium inventore. Temporibus decumbo venia vigilo abeo tener brevis adnuo."
+        },
+        {
+          "question": "praesentium umquam animi",
+          "answer": "Crebro arca amaritudo templum vomica barba viriliter sortitus."
+        }
+      ],
+      "created_at": "2023-09-09T11:13:51.930Z",
+      "updated_at": "2024-08-22T06:39:07.694Z"
+    },
+    {
+      "id": "9b7db21d-a4d8-4d62-8c4f-0c057b4c5075",
+      "name": "Unbranded Soft Mouse",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "684.00",
+      "stock": 89,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cultura strenuus angulus viridis tergum altus minima.\nAmitto velut claro."
+        },
+        {
+          "question": "colligo alioqui cibus vulgaris",
+          "answer": "Aggredior fugit celer aeneus voluptates aestivus suppono debitis termes. Bestia viriliter maiores dolorum cibus amplitudo corona sint spoliatio saepe."
+        },
+        {
+          "question": "aetas nesciunt ab ante vinum",
+          "answer": "Solum molestiae tergiversatio quam eaque argentum aduro surculus."
+        }
+      ],
+      "created_at": "2023-10-06T12:35:36.034Z",
+      "updated_at": "2024-08-22T07:21:16.421Z"
+    },
+    {
+      "id": "0d8165d4-3e31-4014-a883-6208501c5d3d",
+      "name": "Ergonomic Concrete Salad",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "165.00",
+      "stock": 85,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Vulariter tamquam tubineus thesis.\nCaste patrocinor vito sub ocer terminatio atrocitas vitae tenus.\nBarba virgo tempora eius rem maxime beneficium crur summa cresco."
+        },
+        {
+          "question": "capto cimentarius quisquam adduco",
+          "answer": "Cilicium cupio conqueror conqueror ultio tersus. Aliquid somniculosus incidunt dignissimos."
+        },
+        {
+          "question": "patria candidus temporibus advenio vesco",
+          "answer": "Cui antea convoco vestigium vis conitor ago aeger argentum. Thymum aequitas spargo totus ulterius sollers verbera."
+        }
+      ],
+      "created_at": "2024-07-09T09:57:40.244Z",
+      "updated_at": "2024-08-21T16:04:34.824Z"
+    },
+    {
+      "id": "2b80b357-4ea5-4a86-be67-c178b3f66169",
+      "name": "Fantastic Frozen Ball",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "374.00",
+      "stock": 92,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Umbra patruus error texo cubicularis soleo ventito desolo.\nSublime coaegresco advoco turbo varietas ulterius suus sustineo vos denuncio.\nDefendo provident vallum caput capitulus pecus alius depereo carbo.\nConsidero animi vetus clibanus celo comburo recusandae comis."
+        },
+        {
+          "question": "suffoco vorago amplitudo at suscipio",
+          "answer": "Voluntarius dolorem stillicidium valetudo ara subiungo apud color numquam alo. Vado campana textilis volubilis arceo."
+        },
+        {
+          "question": "titulus varius cedo studio nobis",
+          "answer": "Adinventitias ulterius quae succurro. Caste comparo absconditus verecundia cedo magni."
+        }
+      ],
+      "created_at": "2024-06-15T19:28:43.106Z",
+      "updated_at": "2024-08-21T10:51:08.365Z"
+    },
+    {
+      "id": "0ed47c6b-f02a-4829-a38f-e8ba72139ade",
+      "name": "Practical Concrete Chips",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "782.00",
+      "stock": 72,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Adamo aufero cariosus.\nVirgo acerbitas decretum spes tres repellat.\nVerto aranea tantum."
+        },
+        {
+          "question": "cito tendo depulso admiratio conculco",
+          "answer": "Curvo succedo vilicus subseco admoveo audio annus voluptas balbus cupressus. Votum talis adamo termes dedecor dedico coniuratio absque ubi aurum."
+        },
+        {
+          "question": "commodo demitto spoliatio",
+          "answer": "Sunt avarus aurum arx."
+        }
+      ],
+      "created_at": "2024-06-17T23:35:50.835Z",
+      "updated_at": "2024-08-21T14:23:00.788Z"
+    },
+    {
+      "id": "ba5ca77b-281d-449d-9c6e-7f4453219bf5",
+      "name": "Practical Granite Keyboard",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "511.00",
+      "stock": 55,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Tumultus super accusamus complectus quas.\nAperio theologus adnuo.\nEligendi substantia tenus.\nIste calco acer sublime colo laboriosam."
+        },
+        {
+          "question": "sequi comminor bardus cupiditate tempus",
+          "answer": "Suus omnis talis tego vulticulus amoveo cupressus acerbitas apud universe."
+        },
+        {
+          "question": "audeo statua curtus vinco",
+          "answer": "Corona alioqui caries cenaculum decipio arca adhuc defleo. Cupiditate undique valetudo supellex vitae solvo illum est. Cornu maiores ustulo quis eum demo aedificium audacia urbanus deludo."
+        }
+      ],
+      "created_at": "2023-11-08T05:37:52.508Z",
+      "updated_at": "2024-08-21T21:50:43.591Z"
+    },
+    {
+      "id": "6df74272-41e5-426b-8198-e9174aa53035",
+      "name": "Small Granite Chair",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "673.00",
+      "stock": 13,
+      "category_id": 100,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Asperiores bibo quo cunae succurro adopto turbo impedit decimus strenuus.\nModi attero caelum cohors aggero.\nArceo theca ara cibus tot libero acerbitas amitto texo.\nLibero vindico patior varius."
+        },
+        {
+          "question": "solutio abundans expedita acsi",
+          "answer": "Cresco voro asperiores pecco est varietas. Aeternus aranea votum comitatus adhuc perspiciatis. Volo vulgaris terreo tenax conduco terminatio cupiditate."
+        },
+        {
+          "question": "trucido torrens canto",
+          "answer": "Debeo universe talus sulum theologus aliquid crudelis. Solio caterva dolorum."
+        }
+      ],
+      "created_at": "2024-08-02T20:02:24.003Z",
+      "updated_at": "2024-08-21T10:02:16.466Z"
+    },
+    {
+      "id": "d3374fcc-ebbe-4d27-a2ca-22de2c0648a0",
+      "name": "Oriental Frozen Chair",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "545.00",
+      "stock": 76,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Depulso demens acer.\nAgo colo constans.\nEveniet vapulus somniculosus corporis turbo.\nVoco comminor abscido excepturi vomer terra caries."
+        },
+        {
+          "question": "defessus pecco currus",
+          "answer": "Victus laborum vir."
+        },
+        {
+          "question": "adimpleo cena natus patruus",
+          "answer": "Sono considero quam confido tubineus despecto cohors contego utroque nostrum. Textus coniuratio incidunt derideo stabilis stillicidium."
+        }
+      ],
+      "created_at": "2023-08-28T10:22:24.564Z",
+      "updated_at": "2024-08-22T02:05:43.239Z"
+    },
+    {
+      "id": "f364e57f-b8d2-4493-85b3-2e049e0fdf47",
+      "name": "Tasty Steel Salad",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "752.00",
+      "stock": 91,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Eos validus architecto utrum brevis concido convoco coma auctus.\nVirtus libero aggredior deputo curatio audacia carus perspiciatis crustulum."
+        },
+        {
+          "question": "trado umerus delego",
+          "answer": "Curiositas voro ait cupio caries cibus."
+        },
+        {
+          "question": "approbo accommodo carus defendo curriculum",
+          "answer": "Antiquus tepidus admiratio centum beatae. Votum optio via ago tertius thalassinus. Combibo caries termes viridis."
+        }
+      ],
+      "created_at": "2024-07-17T19:07:47.949Z",
+      "updated_at": "2024-08-21T17:35:43.750Z"
+    },
+    {
+      "id": "e4723821-7e97-4f9a-9f31-10734f4d8ecc",
+      "name": "Bespoke Granite Pizza",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "36.00",
+      "stock": 29,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Admitto arbitro confero spero conventus asperiores.\nAtavus necessitatibus vallum vergo enim ver.\nPatior cupio voluptate cohaero timor ocer beneficium.\nAegre usitas currus demitto talio decet sum aduro."
+        },
+        {
+          "question": "nemo defessus strues cribro tantum",
+          "answer": "Astrum sui terror arguo bellicus triumphus cruciamentum denique auctor. Desparatus curriculum velut audeo."
+        },
+        {
+          "question": "calamitas tabula tabgo voluptas",
+          "answer": "Curatio ubi voluptatem vinum creber."
+        }
+      ],
+      "created_at": "2023-12-14T03:00:58.223Z",
+      "updated_at": "2024-08-21T18:01:35.491Z"
+    },
+    {
+      "id": "38960f09-d913-4693-a133-67f45090ce71",
+      "name": "Sleek Granite Fish",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "611.00",
+      "stock": 75,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cubitum virga comedo casus thema charisma voco amo voveo.\nVicissitudo absque tergeo."
+        },
+        {
+          "question": "nihil tergiversatio decet vivo",
+          "answer": "Maiores vir cimentarius somnus abeo. Vobis decimus alias tricesimus degenero voluntarius. Caute soleo spero cognatus molestias suscipio canto stultus."
+        },
+        {
+          "question": "thalassinus demonstro clarus barba cuius",
+          "answer": "Spes amaritudo perferendis vis. Adipisci tamdiu sordeo talis doloribus. Cubitum celebrer sumo."
+        }
+      ],
+      "created_at": "2023-10-22T09:04:56.479Z",
+      "updated_at": "2024-08-22T05:56:34.304Z"
+    },
+    {
+      "id": "ea278b1b-809a-42bc-994f-bbe8ad71780c",
+      "name": "Practical Rubber Bacon",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "480.00",
+      "stock": 88,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Suasoria vacuus sodalitas attollo tracto uredo cicuta baiulus.\nQuas vero utilis adfero."
+        },
+        {
+          "question": "conqueror totus delectatio tenetur",
+          "answer": "Amor corona creptio summa."
+        },
+        {
+          "question": "contabesco cervus tempore",
+          "answer": "Voco stultus dens adflicto debitis admiratio arbitro comminor tardus. Abeo voluptas bis torqueo rem voluptas."
+        }
+      ],
+      "created_at": "2023-09-21T01:57:24.793Z",
+      "updated_at": "2024-08-21T11:18:17.203Z"
+    },
+    {
+      "id": "e83e73a2-15bc-4dcf-8216-ab4ea18c4e1f",
+      "name": "Modern Bronze Salad",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "851.00",
+      "stock": 91,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Centum ascit eveniet.\nEarum vulgaris surculus sulum."
+        },
+        {
+          "question": "defetiscor vel alo terra clamo",
+          "answer": "Deduco usus aranea."
+        },
+        {
+          "question": "tribuo theologus bellum recusandae vulgo",
+          "answer": "Minima similique avarus nostrum ipsa patria color uredo thymbra. Vesper templum volup derideo demulceo cohors."
+        }
+      ],
+      "created_at": "2023-10-10T19:20:05.296Z",
+      "updated_at": "2024-08-22T03:50:42.010Z"
+    },
+    {
+      "id": "339df69a-cf12-410b-b647-b1478051c7f8",
+      "name": "Electronic Rubber Chicken",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "496.00",
+      "stock": 40,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Utpote carmen annus virtus.\nAdsum ante suscipio tergo super sumptus vestrum.\nVerto porro apparatus ab dapifer."
+        },
+        {
+          "question": "tepidus volva culpo aer voluptatem",
+          "answer": "Centum vilicus thema veritas via crustulum. Strenuus talis alveus ars deprecator aer. Doloremque bene tenax cupio aperiam."
+        },
+        {
+          "question": "ipsam conicio vergo conculco",
+          "answer": "Tracto triduana venio textilis avarus bonus credo audentia. Comparo paens desparatus usitas dedico collum distinctio talus."
+        }
+      ],
+      "created_at": "2023-09-27T02:39:28.489Z",
+      "updated_at": "2024-08-22T06:24:53.486Z"
+    },
+    {
+      "id": "9eb56129-3187-4ec1-bb6f-2aea37c6051b",
+      "name": "Licensed Plastic Hat",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "260.00",
+      "stock": 48,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Cibus dolorem vere astrum vindico depereo sum acer.\nAut volubilis amaritudo admoneo.\nDamno theca benevolentia sustineo uredo cohors."
+        },
+        {
+          "question": "atrocitas succedo sollers paens facere",
+          "answer": "Surculus succurro absens ater pariatur arcus."
+        },
+        {
+          "question": "aequitas magnam arto capio",
+          "answer": "Vestrum auxilium arx aegrus artificiose thema correptius venio. Civitas tepidus absorbeo caecus animus."
+        }
+      ],
+      "created_at": "2024-02-14T15:23:54.726Z",
+      "updated_at": "2024-08-22T04:54:06.916Z"
+    },
+    {
+      "id": "92722789-d8c9-43f3-9274-85112b921019",
+      "name": "Ergonomic Frozen Soap",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "550.00",
+      "stock": 22,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Velociter nobis succurro.\nArto temporibus modi corrumpo antepono capto.\nCaecus conventus coniuratio quam cavus corpus deserunt sophismata depereo theologus.\nAdeo adversus tredecim."
+        },
+        {
+          "question": "clarus usus sperno",
+          "answer": "Dolores tumultus vindico vir concido solvo."
+        },
+        {
+          "question": "recusandae stella nemo casso",
+          "answer": "Adficio vilis decerno aegrus tenax admitto audio tantillus. Alter adamo qui adfero amissio debeo surculus aliquam. Dolores aiunt tero tumultus culpo deripio tamquam desino."
+        }
+      ],
+      "created_at": "2024-07-18T04:57:06.198Z",
+      "updated_at": "2024-08-21T19:29:25.589Z"
+    },
+    {
+      "id": "f3ade48e-505f-4ceb-90ca-bda9827d825c",
+      "name": "Ergonomic Wooden Shoes",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "995.00",
+      "stock": 97,
+      "category_id": 23,
+      "accordion": [
+        {
+          "question": "Information",
+          "answer": "Contego tametsi colo fugit ancilla appono.\nQuo eius nemo.\nCapio aliquid odio vulgaris curtus absens cito venia tibi.\nComitatus teneo conscendo voveo adulescens caelestis eum virtus denuncio."
+        },
+        {
+          "question": "cauda desolo asperiores adulescens concido",
+          "answer": "Bardus cubo carpo casus omnis speculum curiositas. Abstergo vereor altus tres conforto vos cultellus verbum."
+        },
+        {
+          "question": "cenaculum patria vespillo",
+          "answer": "Vehemens ventosus voluptatibus vulgo amo baiulus auctor cupiditas. Caritas agnosco titulus ratione nostrum. Statim aegrotatio calamitas vitiosus."
+        }
+      ],
+      "created_at": "2023-10-26T20:44:10.580Z",
+      "updated_at": "2024-08-22T03:47:41.207Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "7ffbfcb0-a8db-4a44-a648-bd763a2213ff",
+      "user_id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "status": "paid",
+      "total": 1072,
+      "created_at": "2024-01-21T19:54:30.378Z",
+      "updated_at": "2024-08-22T01:57:32.257Z"
+    },
+    {
+      "id": "a9e2ac3e-5ee6-43fe-bed6-b9b0eb2104b7",
+      "user_id": "876884d0-941b-4560-b3fe-bd84876aaa60",
+      "status": "pending",
+      "total": 11568,
+      "created_at": "2024-06-13T22:57:12.039Z",
+      "updated_at": "2024-08-21T16:31:19.612Z"
+    },
+    {
+      "id": "61a898e0-699d-4072-b8ca-86c0d335e72a",
+      "user_id": "3be16d11-7461-4344-b2b7-836614ddbdfa",
+      "status": "customer_canceled",
+      "total": 7864,
+      "created_at": "2023-12-31T09:00:02.454Z",
+      "updated_at": "2024-08-21T13:15:04.430Z"
+    },
+    {
+      "id": "d5bce657-b73a-4d0a-8ca6-b911d068b05e",
+      "user_id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "status": "customer_canceled",
+      "total": 1174,
+      "created_at": "2023-09-19T15:37:11.781Z",
+      "updated_at": "2024-08-22T04:14:36.399Z"
+    },
+    {
+      "id": "daa770b3-805b-4f4f-8a2c-740fb22fb85b",
+      "user_id": "7739fb5b-a31f-46a1-bc16-9054e72eaba3",
+      "status": "paid",
+      "total": 2400,
+      "created_at": "2024-02-26T02:03:21.864Z",
+      "updated_at": "2024-08-21T18:00:07.335Z"
+    },
+    {
+      "id": "2dc0e918-fec1-452d-a069-48a19c90611d",
+      "user_id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "status": "pending",
+      "total": 2075,
+      "created_at": "2024-08-18T21:15:49.804Z",
+      "updated_at": "2024-08-21T19:57:32.844Z"
+    },
+    {
+      "id": "151a8e95-15c2-4efd-b326-900781d6be22",
+      "user_id": "936ced94-8ecb-4e9b-95e8-69d772e213c3",
+      "status": "customer_canceled",
+      "total": 4780,
+      "created_at": "2024-04-13T21:35:15.644Z",
+      "updated_at": "2024-08-21T19:55:41.697Z"
+    },
+    {
+      "id": "324a5044-6415-4cf3-a881-ca2a889018e0",
+      "user_id": "0fb0806c-7c8f-4cb7-b06c-296f0e428a69",
+      "status": "done",
+      "total": 2750,
+      "created_at": "2024-05-02T16:13:28.012Z",
+      "updated_at": "2024-08-21T16:37:40.287Z"
+    },
+    {
+      "id": "3d1f2635-be63-42cf-903e-06e488cd4991",
+      "user_id": "7739fb5b-a31f-46a1-bc16-9054e72eaba3",
+      "status": "done",
+      "total": 628,
+      "created_at": "2024-01-24T16:37:57.314Z",
+      "updated_at": "2024-08-22T04:26:41.220Z"
+    },
+    {
+      "id": "63574577-e5e5-4698-ad8b-52274fa97b36",
+      "user_id": "bde804b7-fcea-4975-8899-86775afa7483",
+      "status": "paid",
+      "total": 548,
+      "created_at": "2024-05-27T12:34:03.614Z",
+      "updated_at": "2024-08-21T22:23:37.052Z"
+    }
+  ],
+  "order_items": [
+    {
+      "id": "f43c246d-56c6-4fc8-ab99-3694f23444c2",
+      "order_id": "7ffbfcb0-a8db-4a44-a648-bd763a2213ff",
+      "product_id": "a7e382cd-ce2b-49b7-8029-d0fe62c16cad",
+      "quantity": 2,
+      "price": 1072
+    },
+    {
+      "id": "56c76503-b784-4c2b-8549-39fa552f5308",
+      "order_id": "a9e2ac3e-5ee6-43fe-bed6-b9b0eb2104b7",
+      "product_id": "afd68e8a-08f0-4c6c-983e-a5015bfde74c",
+      "quantity": 4,
+      "price": 3576
+    },
+    {
+      "id": "56c76503-b784-4c2b-8549-39fa552f5308",
+      "order_id": "a9e2ac3e-5ee6-43fe-bed6-b9b0eb2104b7",
+      "product_id": "710ba0a4-b1e8-44bc-847c-48a0e83e5902",
+      "quantity": 4,
+      "price": 216
+    },
+    {
+      "id": "56c76503-b784-4c2b-8549-39fa552f5308",
+      "order_id": "a9e2ac3e-5ee6-43fe-bed6-b9b0eb2104b7",
+      "product_id": "19939824-ec40-4a1c-8e44-404644568bdb",
+      "quantity": 5,
+      "price": 4860
+    },
+    {
+      "id": "56c76503-b784-4c2b-8549-39fa552f5308",
+      "order_id": "a9e2ac3e-5ee6-43fe-bed6-b9b0eb2104b7",
+      "product_id": "19939824-ec40-4a1c-8e44-404644568bdb",
+      "quantity": 3,
+      "price": 2916
+    },
+    {
+      "id": "92319347-54e9-4a36-9fcf-5ff2466843c8",
+      "order_id": "61a898e0-699d-4072-b8ca-86c0d335e72a",
+      "product_id": "fc2f40c5-071c-416c-b87b-79d724e32fce",
+      "quantity": 1,
+      "price": 755
+    },
+    {
+      "id": "92319347-54e9-4a36-9fcf-5ff2466843c8",
+      "order_id": "61a898e0-699d-4072-b8ca-86c0d335e72a",
+      "product_id": "e00c2924-a7e6-4891-800e-2b62b46fc193",
+      "quantity": 3,
+      "price": 2289
+    },
+    {
+      "id": "92319347-54e9-4a36-9fcf-5ff2466843c8",
+      "order_id": "61a898e0-699d-4072-b8ca-86c0d335e72a",
+      "product_id": "a0b1e36b-b862-40d3-8bd0-3292b5b57df6",
+      "quantity": 5,
+      "price": 2935
+    },
+    {
+      "id": "92319347-54e9-4a36-9fcf-5ff2466843c8",
+      "order_id": "61a898e0-699d-4072-b8ca-86c0d335e72a",
+      "product_id": "62f70d3a-cffa-4cdb-a084-1f4c9f2ad2f5",
+      "quantity": 5,
+      "price": 1885
+    },
+    {
+      "id": "555d63de-6af8-4ee7-834d-08685e0ded4b",
+      "order_id": "d5bce657-b73a-4d0a-8ca6-b911d068b05e",
+      "product_id": "a0b1e36b-b862-40d3-8bd0-3292b5b57df6",
+      "quantity": 2,
+      "price": 1174
+    },
+    {
+      "id": "83ab80a0-63ec-45df-9fc6-ffb6f04c0e6f",
+      "order_id": "daa770b3-805b-4f4f-8a2c-740fb22fb85b",
+      "product_id": "ea278b1b-809a-42bc-994f-bbe8ad71780c",
+      "quantity": 5,
+      "price": 2400
+    },
+    {
+      "id": "cf20d25f-fa6d-41ba-8737-0068eac46645",
+      "order_id": "2dc0e918-fec1-452d-a069-48a19c90611d",
+      "product_id": "549d5b11-bdaa-42c4-8354-a55816266aa7",
+      "quantity": 1,
+      "price": 120
+    },
+    {
+      "id": "cf20d25f-fa6d-41ba-8737-0068eac46645",
+      "order_id": "2dc0e918-fec1-452d-a069-48a19c90611d",
+      "product_id": "f0dd0249-e526-4e36-a346-bef06327bacc",
+      "quantity": 1,
+      "price": 587
+    },
+    {
+      "id": "cf20d25f-fa6d-41ba-8737-0068eac46645",
+      "order_id": "2dc0e918-fec1-452d-a069-48a19c90611d",
+      "product_id": "2ec37538-d908-4b4c-bc66-fa533040018a",
+      "quantity": 3,
+      "price": 1368
+    },
+    {
+      "id": "197227be-3c04-41bf-930e-c2776965eca2",
+      "order_id": "151a8e95-15c2-4efd-b326-900781d6be22",
+      "product_id": "ea278b1b-809a-42bc-994f-bbe8ad71780c",
+      "quantity": 4,
+      "price": 1920
+    },
+    {
+      "id": "197227be-3c04-41bf-930e-c2776965eca2",
+      "order_id": "151a8e95-15c2-4efd-b326-900781d6be22",
+      "product_id": "a92c1694-7673-4998-b2d2-43efa8a2ab81",
+      "quantity": 5,
+      "price": 1810
+    },
+    {
+      "id": "197227be-3c04-41bf-930e-c2776965eca2",
+      "order_id": "151a8e95-15c2-4efd-b326-900781d6be22",
+      "product_id": "9e0bb1b2-2040-4d92-9a0f-1b6f5e0973f0",
+      "quantity": 3,
+      "price": 1050
+    },
+    {
+      "id": "215d0500-2ea6-4256-b7a2-1452eedd3edb",
+      "order_id": "324a5044-6415-4cf3-a881-ca2a889018e0",
+      "product_id": "92722789-d8c9-43f3-9274-85112b921019",
+      "quantity": 5,
+      "price": 2750
+    },
+    {
+      "id": "9558248a-c225-4569-ad18-f9aa1dff15d3",
+      "order_id": "3d1f2635-be63-42cf-903e-06e488cd4991",
+      "product_id": "92f78ef6-ee09-4797-b95d-fb0bc680b1ab",
+      "quantity": 4,
+      "price": 628
+    },
+    {
+      "id": "99d314e2-9d5b-4d76-a8fc-474c239ba878",
+      "order_id": "63574577-e5e5-4698-ad8b-52274fa97b36",
+      "product_id": "8fb406f1-5134-47d5-ab49-b5ec18790b93",
+      "quantity": 1,
+      "price": 548
+    }
+  ],
+  "carts": [
+    {
+      "id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "user_id": "3be16d11-7461-4344-b2b7-836614ddbdfa",
+      "created_at": "2024-01-03T13:16:39.318Z",
+      "updated_at": "2024-08-22T06:46:36.021Z"
+    },
+    {
+      "id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "user_id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "created_at": "2024-02-12T07:20:49.002Z",
+      "updated_at": "2024-08-22T07:46:25.667Z"
+    },
+    {
+      "id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "user_id": "e3f76862-08fd-4d3f-ab04-15281f51c38b",
+      "created_at": "2024-04-12T09:40:05.418Z",
+      "updated_at": "2024-08-22T00:53:10.578Z"
+    },
+    {
+      "id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "user_id": "2b75215a-103e-40f1-a04a-fdecfb4305e5",
+      "created_at": "2023-11-02T02:46:24.487Z",
+      "updated_at": "2024-08-21T22:18:34.654Z"
+    },
+    {
+      "id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "user_id": "7dd8ead0-0a61-436d-8261-b8c01cb50973",
+      "created_at": "2024-01-25T12:54:14.969Z",
+      "updated_at": "2024-08-22T02:15:00.855Z"
+    }
+  ],
+  "cart_items": [
+    {
+      "id": 1,
+      "cart_id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "product_id": "5eec6904-1294-4394-905b-d44eaa2adbca",
+      "quantity": 10,
+      "added_at": "2024-08-21T21:46:58.456Z"
+    },
+    {
+      "id": 2,
+      "cart_id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "product_id": "2ce37f93-991f-4bbc-82ad-bc599135dbdb",
+      "quantity": 4,
+      "added_at": "2024-08-21T15:08:04.899Z"
+    },
+    {
+      "id": 3,
+      "cart_id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "product_id": "fc2f40c5-071c-416c-b87b-79d724e32fce",
+      "quantity": 2,
+      "added_at": "2024-08-21T13:17:28.816Z"
+    },
+    {
+      "id": 4,
+      "cart_id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "product_id": "fa8f4247-d9a1-47e1-a05c-8dc5723d231b",
+      "quantity": 7,
+      "added_at": "2024-08-21T22:50:18.269Z"
+    },
+    {
+      "id": 5,
+      "cart_id": "b986d304-1439-4bfa-9a04-27aabe8ef7e8",
+      "product_id": "38960f09-d913-4693-a133-67f45090ce71",
+      "quantity": 10,
+      "added_at": "2024-08-21T16:18:19.190Z"
+    },
+    {
+      "id": 6,
+      "cart_id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "product_id": "ea278b1b-809a-42bc-994f-bbe8ad71780c",
+      "quantity": 9,
+      "added_at": "2024-08-22T00:59:51.877Z"
+    },
+    {
+      "id": 7,
+      "cart_id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "product_id": "f0dd0249-e526-4e36-a346-bef06327bacc",
+      "quantity": 1,
+      "added_at": "2024-08-22T08:14:19.455Z"
+    },
+    {
+      "id": 8,
+      "cart_id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "product_id": "0d8165d4-3e31-4014-a883-6208501c5d3d",
+      "quantity": 1,
+      "added_at": "2024-08-21T18:42:44.582Z"
+    },
+    {
+      "id": 9,
+      "cart_id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "product_id": "a0b1e36b-b862-40d3-8bd0-3292b5b57df6",
+      "quantity": 3,
+      "added_at": "2024-08-22T09:26:36.762Z"
+    },
+    {
+      "id": 10,
+      "cart_id": "0136a23e-72c1-4fd1-b05f-4046a22186c0",
+      "product_id": "6132401d-669d-4db8-ad6c-1016daec115c",
+      "quantity": 9,
+      "added_at": "2024-08-21T10:14:34.519Z"
+    },
+    {
+      "id": 11,
+      "cart_id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "product_id": "9b7db21d-a4d8-4d62-8c4f-0c057b4c5075",
+      "quantity": 3,
+      "added_at": "2024-08-21T18:52:16.200Z"
+    },
+    {
+      "id": 12,
+      "cart_id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "product_id": "afd68e8a-08f0-4c6c-983e-a5015bfde74c",
+      "quantity": 3,
+      "added_at": "2024-08-22T09:46:41.273Z"
+    },
+    {
+      "id": 13,
+      "cart_id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "product_id": "16301275-af7d-4c87-b7d7-eb11f62a0c8b",
+      "quantity": 1,
+      "added_at": "2024-08-21T10:34:30.101Z"
+    },
+    {
+      "id": 14,
+      "cart_id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "product_id": "62344011-9151-44e0-b216-299816112e23",
+      "quantity": 8,
+      "added_at": "2024-08-21T10:54:34.444Z"
+    },
+    {
+      "id": 15,
+      "cart_id": "6631f252-1710-4292-8c2b-e71eb717ab84",
+      "product_id": "0ed47c6b-f02a-4829-a38f-e8ba72139ade",
+      "quantity": 9,
+      "added_at": "2024-08-22T03:55:48.120Z"
+    },
+    {
+      "id": 16,
+      "cart_id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "product_id": "bbec7939-9f48-4791-8fa1-339066b675d1",
+      "quantity": 5,
+      "added_at": "2024-08-22T07:11:41.288Z"
+    },
+    {
+      "id": 17,
+      "cart_id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "product_id": "e83e73a2-15bc-4dcf-8216-ab4ea18c4e1f",
+      "quantity": 4,
+      "added_at": "2024-08-21T13:40:22.211Z"
+    },
+    {
+      "id": 18,
+      "cart_id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "product_id": "cd448c96-3e8b-48b5-a9b0-73d2e622e4fe",
+      "quantity": 3,
+      "added_at": "2024-08-21T22:01:28.736Z"
+    },
+    {
+      "id": 19,
+      "cart_id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "product_id": "38960f09-d913-4693-a133-67f45090ce71",
+      "quantity": 6,
+      "added_at": "2024-08-21T20:58:43.420Z"
+    },
+    {
+      "id": 20,
+      "cart_id": "cb15f2c4-e2ea-4b98-866b-536887eb5ac1",
+      "product_id": "73117023-044d-4646-bed2-aa27ff3720e0",
+      "quantity": 2,
+      "added_at": "2024-08-21T17:08:27.464Z"
+    },
+    {
+      "id": 21,
+      "cart_id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "product_id": "6132401d-669d-4db8-ad6c-1016daec115c",
+      "quantity": 5,
+      "added_at": "2024-08-21T11:14:51.266Z"
+    },
+    {
+      "id": 22,
+      "cart_id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "product_id": "8fb406f1-5134-47d5-ab49-b5ec18790b93",
+      "quantity": 2,
+      "added_at": "2024-08-22T07:58:11.364Z"
+    },
+    {
+      "id": 23,
+      "cart_id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "product_id": "fa8f4247-d9a1-47e1-a05c-8dc5723d231b",
+      "quantity": 3,
+      "added_at": "2024-08-22T08:35:03.089Z"
+    },
+    {
+      "id": 24,
+      "cart_id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "product_id": "92722789-d8c9-43f3-9274-85112b921019",
+      "quantity": 2,
+      "added_at": "2024-08-21T15:16:42.551Z"
+    },
+    {
+      "id": 25,
+      "cart_id": "dfd4b079-f685-4e65-9155-0ff68077fb28",
+      "product_id": "f173cf87-98cf-4ab6-8e38-8404f8b67eca",
+      "quantity": 4,
+      "added_at": "2024-08-21T22:28:34.747Z"
+    }
+  ]
+}
